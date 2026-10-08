@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-542-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-254-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-209-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-543-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-254-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-210-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (421)](#-internships--co-ops) · [🚀 New Grad & Junior (121)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (422)](#-internships--co-ops) · [🚀 New Grad & Junior (121)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 8, 2026 at 16:51 UTC_
+_Last updated October 8, 2026 at 17:22 UTC_
 
 ---
 
@@ -41,6 +41,7 @@ _Last updated October 8, 2026 at 16:51 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Bombardier](https://csjobs.ca/companies/bombardier?utm_source=github&utm_medium=readme)** | 🔥 Intern, Supply Chain (Data Insights and Profitability), (Winter 2027) | Dorval, QC | [Apply](https://csjobs.ca/jobs/370911/intern-supply-chain-data-insights-and-profitability-winter-2027-at-bombardier?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[MDA Space](https://csjobs.ca/companies/mda-space?utm_source=github&utm_medium=readme)** | 🔥 Engineering Student - RF EGSE - Winter 2027 | Sainte-Anne-de-Bellevue, QC | [Apply](https://csjobs.ca/jobs/370404/engineering-student-rf-egse-winter-2027-at-mda-space?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Pratt & Whitney](https://csjobs.ca/companies/pratt-and-whitney?utm_source=github&utm_medium=readme)** | 🔥 Stage - Hiver 2027 - Ingénierie : outils d'intégrité des produits et amélioration des processus / Internship - Winter 2027 - Engineering Product Integrity tools and process improvements | Longueuil, QC | [Apply](https://csjobs.ca/jobs/370402/stage-hiver-2027-ingenierie-outils-d-integrite-des-produits-et-amelioration-des-?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[MDA Space](https://csjobs.ca/companies/mda-space?utm_source=github&utm_medium=readme)** | 🔥 Engineering Student - Systems - Winter 2027 | Sainte-Anne-de-Bellevue, QC | [Apply](https://csjobs.ca/jobs/370382/engineering-student-systems-winter-2027-at-mda-space?utm_source=github&utm_medium=readme) | Oct 8 |
@@ -477,9 +478,9 @@ _Last updated October 8, 2026 at 16:51 UTC_
 | ↳ | 🔥 Graduate Software Engineer / Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365507/graduate-software-engineer-quant-developer-quant-researcher-up-to-150-000-bonus-?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[BDO](https://csjobs.ca/companies/bdo?utm_source=github&utm_medium=readme)** | 🔥 DevOps Engineer - New Grad (January 2027) | Toronto, ON / Toronto - Bay St | [Apply](https://csjobs.ca/jobs/361531/devops-engineer-new-grad-january-2027-at-bdo-canada?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Ecolab](https://csjobs.ca/companies/ecolab?utm_source=github&utm_medium=readme)** | 🔥 Junior Quality Control Software Developer | Calgary, AB | [Apply](https://csjobs.ca/jobs/361523/junior-quality-control-software-developer-at-ecolab?utm_source=github&utm_medium=readme) | Oct 8 |
+| **[Gartner](https://csjobs.ca/companies/gartner?utm_source=github&utm_medium=readme)** | 🔥 Client Success Associate / GTP (Gartner for Technical Professionals) | Surrey | [Apply](https://csjobs.ca/jobs/371219/client-success-associate-gtp-gartner-for-technical-professionals-at-gartner?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[LGI Healthcare Solutions](https://csjobs.ca/companies/lgi-healthcare-solutions?utm_source=github&utm_medium=readme)** | 🔥 AI Augmented Quality Assurance Analyst I | Montreal, QC | [Apply](https://csjobs.ca/jobs/370566/ai-augmented-quality-assurance-analyst-i-at-lgi-healthcare-solutions?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[TD](https://csjobs.ca/companies/td?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/370499/software-engineer-i-at-td?utm_source=github&utm_medium=readme) | Oct 7 |
-| **[Gartner](https://csjobs.ca/companies/gartner?utm_source=github&utm_medium=readme)** | 🔥 Client Success Associate / GTP (Gartner for Technical Professionals) | Surrey | [Apply](https://csjobs.ca/jobs/370196/client-success-associate-gtp-gartner-for-technical-professionals-at-gartner?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/368395/software-engineer-i-at-td-bank?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[General Motors (GM)](https://csjobs.ca/companies/general-motors-gm?utm_source=github&utm_medium=readme)** | 🔥 Early Career Software Test Developer - Propulsion Thermal Management | Markham, ON | [Apply](https://csjobs.ca/jobs/364695/early-career-software-test-developer-propulsion-thermal-management-at-general-mo?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[General Motors](https://csjobs.ca/companies/general-motors?utm_source=github&utm_medium=readme)** | 🔥 Early Career Software Test Developer - Propulsion Thermal Management | Markham, ON | [Apply](https://csjobs.ca/jobs/361524/early-career-software-test-developer-propulsion-thermal-management-at-general-mo?utm_source=github&utm_medium=readme) | Oct 7 |
@@ -560,7 +561,7 @@ _Last updated October 8, 2026 at 16:51 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/369976/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/371142/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | SVT/PV Engineer 1 - New Grad | Ottawa | [Apply](https://csjobs.ca/jobs/339187/svt-pv-engineer-1-new-grad-at-ciena?utm_source=github&utm_medium=readme) | Sep 21 |
