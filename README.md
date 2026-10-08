@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 8, 2026 at 17:29 UTC_
+_Last updated October 8, 2026 at 18:21 UTC_
 
 ---
 
@@ -478,7 +478,7 @@ _Last updated October 8, 2026 at 17:29 UTC_
 | ↳ | 🔥 Graduate Software Engineer / Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365507/graduate-software-engineer-quant-developer-quant-researcher-up-to-150-000-bonus-?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[BDO](https://csjobs.ca/companies/bdo?utm_source=github&utm_medium=readme)** | 🔥 DevOps Engineer - New Grad (January 2027) | Toronto, ON / Toronto - Bay St | [Apply](https://csjobs.ca/jobs/361531/devops-engineer-new-grad-january-2027-at-bdo-canada?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Ecolab](https://csjobs.ca/companies/ecolab?utm_source=github&utm_medium=readme)** | 🔥 Junior Quality Control Software Developer | Calgary, AB | [Apply](https://csjobs.ca/jobs/361523/junior-quality-control-software-developer-at-ecolab?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[Gartner](https://csjobs.ca/companies/gartner?utm_source=github&utm_medium=readme)** | 🔥 Client Success Associate / GTP (Gartner for Technical Professionals) | Surrey | [Apply](https://csjobs.ca/jobs/371219/client-success-associate-gtp-gartner-for-technical-professionals-at-gartner?utm_source=github&utm_medium=readme) | Oct 7 |
+| **[Gartner](https://csjobs.ca/companies/gartner?utm_source=github&utm_medium=readme)** | 🔥 Client Success Associate / GTP (Gartner for Technical Professionals) | Surrey | [Apply](https://csjobs.ca/jobs/372041/client-success-associate-gtp-gartner-for-technical-professionals-at-gartner?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[LGI Healthcare Solutions](https://csjobs.ca/companies/lgi-healthcare-solutions?utm_source=github&utm_medium=readme)** | 🔥 AI Augmented Quality Assurance Analyst I | Montreal, QC | [Apply](https://csjobs.ca/jobs/370566/ai-augmented-quality-assurance-analyst-i-at-lgi-healthcare-solutions?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[TD](https://csjobs.ca/companies/td?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/370499/software-engineer-i-at-td?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/368395/software-engineer-i-at-td-bank?utm_source=github&utm_medium=readme) | Oct 7 |
@@ -561,7 +561,7 @@ _Last updated October 8, 2026 at 17:29 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/371142/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/371976/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | SVT/PV Engineer 1 - New Grad | Ottawa | [Apply](https://csjobs.ca/jobs/339187/svt-pv-engineer-1-new-grad-at-ciena?utm_source=github&utm_medium=readme) | Sep 21 |
