@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔍 Search & filter every role
+    url: https://csjobs.ca/jobs?utm_source=github&utm_medium=issue
+    about: Filter by city, role and company, and see your resume match score.

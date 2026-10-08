@@ -1,0 +1,53 @@
+name: ➕ Add a job
+description: Share a Canadian tech internship, co-op, new grad or junior role that isn't on the list.
+title: "[Add job] <Company> — <Role>"
+labels: ["add-job"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping other students! Takes under a minute. Roles must be in Canada, or remote and open to Canadian applicants.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Shopify
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role title
+      placeholder: Software Engineering Intern (Summer 2027)
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: Toronto, ON / Remote, Canada
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Internship / Co-op
+        - New Grad
+        - Junior
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Application link
+      description: The company's own posting (careers page or ATS), not a third-party board.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else? (optional)
+      placeholder: Work term, citizenship requirement, deadline...
