@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-561-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-250-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-193-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-559-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-249-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-193-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (432)](#-internships--co-ops) · [🚀 New Grad & Junior (129)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (430)](#-internships--co-ops) · [🚀 New Grad & Junior (129)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 9, 2026 at 23:18 UTC_
+_Last updated October 9, 2026 at 23:20 UTC_
 
 ---
 
@@ -366,7 +366,6 @@ _Last updated October 9, 2026 at 23:18 UTC_
 | **[Scotiabank](https://csjobs.ca/companies/scotiabank?utm_source=github&utm_medium=readme)** | Velocity - Data Scientist Internship/Co-Op - Winter 2027 | Toronto, ON | [Apply](https://csjobs.ca/jobs/311087/velocity-data-scientist-internship-co-op-winter-2027-at-scotiabank?utm_source=github&utm_medium=readme) | Sep 30 |
 | ↳ | Velocity - AI Engineer Internship/Co-Op - Winter 2027 | Toronto, ON | [Apply](https://csjobs.ca/jobs/311052/velocity-ai-engineer-internship-co-op-winter-2027-at-scotiabank?utm_source=github&utm_medium=readme) | Sep 30 |
 | ↳ | Velocity - DevOps Engineer- Capital Markets Internship/Co-op 12-16 Months - Winter 2027 | Toronto, ON | [Apply](https://csjobs.ca/jobs/310525/velocity-devops-engineer-capital-markets-internship-co-op-12-16-months-winter-20?utm_source=github&utm_medium=readme) | Sep 30 |
-| **[Intact](https://csjobs.ca/companies/intact?utm_source=github&utm_medium=readme)** | Software Developer 1 Intern/Co-op (Winter 2027) | St. John's, NL | [Apply](https://csjobs.ca/jobs/392551/software-developer-1-intern-co-op-winter-2027-at-intact?utm_source=github&utm_medium=readme) | Sep 29 |
 | **[PlayStation](https://csjobs.ca/companies/playstation?utm_source=github&utm_medium=readme)** | Technical Designer - Intern | Montreal, QC | [Apply](https://csjobs.ca/jobs/367989/technical-designer-intern-at-playstation?utm_source=github&utm_medium=readme) | Sep 29 |
 | **[Qualcomm](https://csjobs.ca/companies/qualcomm?utm_source=github&utm_medium=readme)** | Soft IP ASIC Engineer Intern | Ottawa, ON | [✨ Pro](https://csjobs.ca/jobs/310269/soft-ip-asic-engineer-intern-at-qualcomm?utm_source=github&utm_medium=readme) | Sep 29 |
 | **[Lumentum](https://csjobs.ca/companies/lumentum?utm_source=github&utm_medium=readme)** | Reliability Test Automation Engineer (Co-op/Intern) | Canada - Ottawa (Bill Leathem) | [Apply](https://csjobs.ca/jobs/369333/reliability-test-automation-engineer-co-op-intern-at-lumentum?utm_source=github&utm_medium=readme) | Sep 28 |
@@ -472,7 +471,6 @@ _Last updated October 9, 2026 at 23:18 UTC_
 | ↳ | Design Verification Engineer Intern (Toronto) | Toronto, ON | [Apply](https://csjobs.ca/jobs/367944/design-verification-engineer-intern-toronto-at-astera-labs?utm_source=github&utm_medium=readme) | Sep 9 |
 | **[Kinaxis](https://csjobs.ca/companies/kinaxis?utm_source=github&utm_medium=readme)** | Developer Intern, AI Solutions | Ottawa, ON | [Apply](https://csjobs.ca/jobs/220753/developer-intern-ai-solutions-at-kinaxis?utm_source=github&utm_medium=readme) | Sep 9 |
 | **[GoMaterials](https://csjobs.ca/companies/gomaterials?utm_source=github&utm_medium=readme)** | Data Quality Intern | Montreal, QC | [Apply](https://csjobs.ca/jobs/220750/data-quality-intern-at-gomaterials?utm_source=github&utm_medium=readme) | Sep 9 |
-| **[Goldman Sachs](https://csjobs.ca/companies/goldman-sachs?utm_source=github&utm_medium=readme)** | Summer Analyst, Engineering | Toronto, ON | [Apply](https://csjobs.ca/jobs/392629/summer-analyst-engineering-at-goldman-sachs?utm_source=github&utm_medium=readme) | Aug 20 |
 
 ## 🚀 New Grad & Junior Roles
 
