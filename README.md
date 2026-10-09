@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 9, 2026 at 17:24 UTC_
+_Last updated October 9, 2026 at 18:20 UTC_
 
 ---
 
@@ -498,7 +498,7 @@ _Last updated October 9, 2026 at 17:24 UTC_
 | **[Priceline](https://csjobs.ca/companies/priceline?utm_source=github&utm_medium=readme)** | 🔥 Associate Java Developer | Toronto, ON / Toronto | [Apply](https://csjobs.ca/jobs/373843/associate-java-developer-at-priceline?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[MDA Space](https://csjobs.ca/companies/mda-space?utm_source=github&utm_medium=readme)** | 🔥 Junior Electronics Validation and Test Engineer/Designer | Sainte-Anne-de-Bellevue, QC | [Apply](https://csjobs.ca/jobs/370569/junior-electronics-validation-and-test-engineer-designer-at-mda-space?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | 🔥 Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/369857/engineer-i-at-td-bank?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | 🔥 Junior Software Developer - System Integration Labs (North Shore) | Mirabel / Mirabel, QC | [Apply](https://csjobs.ca/jobs/368260/junior-software-developer-system-integration-labs-north-shore-at-cae?utm_source=github&utm_medium=readme) | Oct 8 |
+| **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | 🔥 Junior Software Developer - System Integration Labs (North Shore) | Mirabel | [Apply](https://csjobs.ca/jobs/368260/junior-software-developer-system-integration-labs-north-shore-at-cae?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Euna Solutions](https://csjobs.ca/companies/euna-solutions?utm_source=github&utm_medium=readme)** | 🔥 Associate Technical Solutions Specialist | Oakville, ON | [Apply](https://csjobs.ca/jobs/367500/associate-technical-solutions-specialist-at-euna-solutions?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | 🔥 Graduate Software Engineer / Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365507/graduate-software-engineer-quant-developer-quant-researcher-up-to-150-000-bonus-?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[General Motors](https://csjobs.ca/companies/general-motors?utm_source=github&utm_medium=readme)** | 🔥 Early Career Software Test Developer - Propulsion Thermal Management | Markham, ON | [Apply](https://csjobs.ca/jobs/382719/early-career-software-test-developer-propulsion-thermal-management-at-general-mo?utm_source=github&utm_medium=readme) | Oct 7 |
@@ -571,7 +571,7 @@ _Last updated October 9, 2026 at 17:24 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/389048/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/389735/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | Junior Front-End Engineer - Montreal - Up to $130,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365509/junior-front-end-engineer-montreal-up-to-130-000-cad-starting-base-exceptional-b?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
