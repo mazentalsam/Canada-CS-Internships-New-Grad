@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-510-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-236-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-176-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-508-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-234-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-174-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (402)](#-internships--co-ops) · [🚀 New Grad & Junior (108)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (402)](#-internships--co-ops) · [🚀 New Grad & Junior (106)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 10, 2026 at 19:20 UTC_
+_Last updated October 10, 2026 at 19:50 UTC_
 
 ---
 
@@ -466,9 +466,7 @@ _Last updated October 10, 2026 at 19:20 UTC_
 | **[Bevertec](https://csjobs.ca/companies/bevertec?utm_source=github&utm_medium=readme)** | 🔥 Junior Data Scientist | Toronto, ON | [Apply](https://csjobs.ca/jobs/391539/junior-data-scientist-at-bevertec?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[Stripe](https://csjobs.ca/companies/stripe?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer, Early Career — Immediate Start | Toronto, ON / Toronto | [✨ Pro](https://csjobs.ca/jobs/391475/software-engineer-early-career-immediate-start-at-stripe?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[Manulife](https://csjobs.ca/companies/manulife?utm_source=github&utm_medium=readme)** | 🔥 Associate Technical Specialist | Toronto, ON | [Apply](https://csjobs.ca/jobs/390378/associate-technical-specialist-at-manulife?utm_source=github&utm_medium=readme) | Oct 9 |
-| **[Invitation Project](https://csjobs.ca/companies/invitation-project?utm_source=github&utm_medium=readme)** | 🔥 Jr. Full Stack Developer | Burnaby, BC (Remote) | [Apply](https://csjobs.ca/jobs/390289/jr-full-stack-developer-at-invitation-project?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | 🔥 Junior Software Developer - System Integration Labs (North Shore)-EN | Greater Montreal Metropolitan Area (Hybrid) | [Apply](https://csjobs.ca/jobs/390285/junior-software-developer-system-integration-labs-north-shore-en-at-cae?utm_source=github&utm_medium=readme) | Oct 9 |
-| **[Continual Energy](https://csjobs.ca/companies/continual-energy?utm_source=github&utm_medium=readme)** | 🔥 Junior Web Developer | Toronto, ON M5C 2W1 (Onsite) | [Apply](https://csjobs.ca/jobs/390284/junior-web-developer-at-continual-energy-inc?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[Canam](https://csjobs.ca/companies/canam?utm_source=github&utm_medium=readme)** | 🔥 Développeur(euse) d'intégrations - Boomi / C#, junior | Boucherville, QC / St-Georges, QC / Sherbrooke, QC | [Apply](https://csjobs.ca/jobs/388605/developpeur-euse-d-integrations-boomi-c-junior-at-canam?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[KTek Resourcing](https://csjobs.ca/companies/ktek-resourcing?utm_source=github&utm_medium=readme)** | 🔥 Fresh Graduate – Java Full Stack Developer | Toronto, ON | [Apply](https://csjobs.ca/jobs/388553/fresh-graduate-java-full-stack-developer-at-ktek-resourcing?utm_source=github&utm_medium=readme) | Oct 9 |
 | ↳ | 🔥 Junior Java Full Stack Developer (Fresh Graduate) | Toronto, ON | [Apply](https://csjobs.ca/jobs/388419/junior-java-full-stack-developer-fresh-graduate-at-ktek-resourcing?utm_source=github&utm_medium=readme) | Oct 9 |
