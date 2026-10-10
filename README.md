@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-528-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-245-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-168-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-527-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-244-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-168-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (411)](#-internships--co-ops) · [🚀 New Grad & Junior (117)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (411)](#-internships--co-ops) · [🚀 New Grad & Junior (116)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 10, 2026 at 13:20 UTC_
+_Last updated October 10, 2026 at 14:20 UTC_
 
 ---
 
@@ -540,7 +540,6 @@ _Last updated October 10, 2026 at 13:20 UTC_
 | ↳ | Machine Learning Developer Associate / Développeur(euse) en apprentissage automatique associé(e) | Toronto, ON | [✨ Pro](https://csjobs.ca/jobs/327282/machine-learning-developer-associate-developpeur-euse-en-apprentissage-automatiq?utm_source=github&utm_medium=readme) | Sep 30 |
 | **[Newfold Digital](https://csjobs.ca/companies/newfold-digital?utm_source=github&utm_medium=readme)** | Associate Backend Engineer | NS | [Apply](https://csjobs.ca/jobs/311743/associate-backend-engineer-at-newfold-digital?utm_source=github&utm_medium=readme) | Sep 30 |
 | **[AlayaCare](https://csjobs.ca/companies/alayacare?utm_source=github&utm_medium=readme)** | Junior Fullstack Developer (Python) | Montréal, QC | [Apply](https://csjobs.ca/jobs/311206/junior-fullstack-developer-python-at-alayacare?utm_source=github&utm_medium=readme) | Sep 30 |
-| **[Pharmascience](https://csjobs.ca/companies/pharmascience?utm_source=github&utm_medium=readme)** | Analyste junior Cybersecurite | Montreal, QC | [Apply](https://csjobs.ca/jobs/311141/analyste-junior-cybersecurite-at-pharmascience?utm_source=github&utm_medium=readme) | Sep 30 |
 | **[Superhuman](https://csjobs.ca/companies/superhuman?utm_source=github&utm_medium=readme)** | Software Engineer, Full-Stack - GPTZero, Early Career | Hub - Toronto | [Apply](https://csjobs.ca/jobs/368139/software-engineer-full-stack-gptzero-early-career-at-superhuman?utm_source=github&utm_medium=readme) | Sep 29 |
 | **[Stripe](https://csjobs.ca/companies/stripe?utm_source=github&utm_medium=readme)** | Software Engineer, New Grad | Toronto, ON | [✨ Pro](https://csjobs.ca/jobs/307994/software-engineer-new-grad-at-stripe?utm_source=github&utm_medium=readme) | Sep 29 |
 | **[Harbor](https://csjobs.ca/companies/harbor?utm_source=github&utm_medium=readme)** | Junior Developer (Finance Systems) | Remote | [Apply](https://csjobs.ca/jobs/367962/junior-developer-finance-systems-at-harbor?utm_source=github&utm_medium=readme) | Sep 28 |
@@ -554,7 +553,7 @@ _Last updated October 10, 2026 at 13:20 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/403122/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/403820/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | Junior Front-End Engineer - Montreal - Up to $130,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365509/junior-front-end-engineer-montreal-up-to-130-000-cad-starting-base-exceptional-b?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
