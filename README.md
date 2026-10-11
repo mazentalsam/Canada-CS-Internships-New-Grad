@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-474-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-231-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-134-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-474-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-231-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-135-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 11, 2026 at 22:23 UTC_
+_Last updated October 11, 2026 at 23:20 UTC_
 
 ---
 
@@ -41,6 +41,7 @@ _Last updated October 11, 2026 at 22:23 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Loriginal.org](https://csjobs.ca/companies/loriginal-org?utm_source=github&utm_medium=readme)** | 🔥 Bénévole - Stage developer full stack | Montréal, QC | [Apply](https://csjobs.ca/jobs/428734/benevole-stage-developer-full-stack-at-loriginal-org?utm_source=github&utm_medium=readme) | Oct 11 |
 | **[Loto-Québec](https://csjobs.ca/companies/loto-quebec?utm_source=github&utm_medium=readme)** | 🔥 Stage - analyste web | Montreal, QC | [Apply](https://csjobs.ca/jobs/426851/stage-analyste-web-at-loto-quebec?utm_source=github&utm_medium=readme) | Oct 11 |
 | **[Manulife](https://csjobs.ca/companies/manulife?utm_source=github&utm_medium=readme)** | 🔥 Winter Co-op 2027 - Business Technology | Toronto, ON | [Apply](https://csjobs.ca/jobs/426373/winter-co-op-2027-business-technology-at-manulife?utm_source=github&utm_medium=readme) | Oct 11 |
 | **[GAOTek](https://csjobs.ca/companies/gaotek?utm_source=github&utm_medium=readme)** | 🔥 AI & IoT (AIoT) Engineering Intern | Pickering, ON | [Apply](https://csjobs.ca/jobs/423669/ai-iot-aiot-engineering-intern-at-gaotek-inc?utm_source=github&utm_medium=readme) | Oct 11 |
@@ -191,7 +192,7 @@ _Last updated October 11, 2026 at 22:23 UTC_
 | **[CM Labs Simulations](https://csjobs.ca/companies/cm-labs-simulations?utm_source=github&utm_medium=readme)** | Stagiaire en IA et robotique / AI/ML/Robotics Developer Intern | Montreal, QC | [Apply](https://csjobs.ca/jobs/361458/stagiaire-en-ia-et-robotique-ai-ml-robotics-developer-intern-at-cm-labs-simulati?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Brown and Caldwell](https://csjobs.ca/companies/brown-and-caldwell?utm_source=github&utm_medium=readme)** | Engineering Intern - Summer 2027 (Vancouver, B.C.) | Vancouver, BC | [Apply](https://csjobs.ca/jobs/361450/engineering-intern-summer-2027-vancouver-b-c-at-brown-and-caldwell?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[CM Labs Simulations](https://csjobs.ca/companies/cm-labs-simulations?utm_source=github&utm_medium=readme)** | Stagiaire développeur infonuagique/ Cloud Developer Intern | Montreal, QC | [Apply](https://csjobs.ca/jobs/361414/stagiaire-developpeur-infonuagique-cloud-developer-intern-at-cm-labs-simulations?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[Clio](https://csjobs.ca/companies/clio?utm_source=github&utm_medium=readme)** | Software Developer, Co-op | Calgary, AB / Toronto, ON / Vancouver, BC | [Apply](https://csjobs.ca/jobs/399317/software-developer-co-op-at-clio?utm_source=github&utm_medium=readme) | Oct 7 |
+| **[Clio](https://csjobs.ca/companies/clio?utm_source=github&utm_medium=readme)** | Software Developer, Co-op | Calgary, AB / Vancouver, BC | [Apply](https://csjobs.ca/jobs/399317/software-developer-co-op-at-clio?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Flare Systems](https://csjobs.ca/companies/flare-systems?utm_source=github&utm_medium=readme)** | Stagiaire en développement logiciel / Intern Software Developer | Montréal, QC | [Apply](https://csjobs.ca/jobs/396533/stagiaire-en-developpement-logiciel-intern-software-developer-at-flare-systems-i?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[J.D. Irving](https://csjobs.ca/companies/j-d-irving?utm_source=github&utm_medium=readme)** | Data Scientist Student – Winter 2027 | Saint John, NB | [Apply](https://csjobs.ca/jobs/385720/data-scientist-student-winter-2027-at-j-d-irving-limited?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Wawanesa Insurance](https://csjobs.ca/companies/wawanesa-insurance?utm_source=github&utm_medium=readme)** | Application Developer - Co-op | Kitchener, ON | [Apply](https://csjobs.ca/jobs/382501/application-developer-co-op-at-wawanesa-insurance?utm_source=github&utm_medium=readme) | Oct 7 |
@@ -199,7 +200,6 @@ _Last updated October 11, 2026 at 22:23 UTC_
 | **[Resmed](https://csjobs.ca/companies/resmed?utm_source=github&utm_medium=readme)** | Student V&V Engineer | Sydney, NSW | [Apply](https://csjobs.ca/jobs/369349/student-v-v-engineer-at-resmed?utm_source=github&utm_medium=readme) | Oct 7 |
 | ↳ | Student Electronics Engineer | Sydney, NSW | [Apply](https://csjobs.ca/jobs/369347/student-electronics-engineer-at-resmed?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Human Computer Lab](https://csjobs.ca/companies/human-computer-lab?utm_source=github&utm_medium=readme)** | Intern - Mechatronics Engineer | Toronto | [Apply](https://csjobs.ca/jobs/368133/intern-mechatronics-engineer-at-human-computer-lab?utm_source=github&utm_medium=readme) | Oct 7 |
-| **[Corpay](https://csjobs.ca/companies/corpay?utm_source=github&utm_medium=readme)** | Software Developer (Co-op) | Vancouver, BC | [Apply](https://csjobs.ca/jobs/359580/software-developer-co-op-at-corpay?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[ValueHosting](https://csjobs.ca/companies/valuehosting?utm_source=github&utm_medium=readme)** | Full Stack Software Engineer Intern - Product | Greater Toronto Area | [Apply](https://csjobs.ca/jobs/357590/full-stack-software-engineer-intern-product-at-valuehosting?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Autodesk](https://csjobs.ca/companies/autodesk?utm_source=github&utm_medium=readme)** | Research Intern - AI Research 🎓 | Toronto, ON | [Apply](https://csjobs.ca/jobs/357070/research-intern-ai-research-at-autodesk?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Simon-Kucher](https://csjobs.ca/companies/simon-kucher?utm_source=github&utm_medium=readme)** | Summer 2027 Intern - Elevate/Data Science [UG/Masters] | Toronto, ON | [Apply](https://csjobs.ca/jobs/356023/summer-2027-intern-elevate-data-science-ug-masters-at-simon-kucher?utm_source=github&utm_medium=readme) | Oct 7 |
@@ -504,7 +504,7 @@ _Last updated October 11, 2026 at 22:23 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/428046/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/428811/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | Junior Front-End Engineer - Montreal - Up to $130,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365509/junior-front-end-engineer-montreal-up-to-130-000-cad-starting-base-exceptional-b?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
