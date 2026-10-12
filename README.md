@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-450-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-225-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-54-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-446-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-223-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-54-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (352)](#-internships--co-ops) · [🚀 New Grad & Junior (98)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (349)](#-internships--co-ops) · [🚀 New Grad & Junior (97)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 12, 2026 at 09:20 UTC_
+_Last updated October 12, 2026 at 10:20 UTC_
 
 ---
 
@@ -155,9 +155,6 @@ _Last updated October 12, 2026 at 09:20 UTC_
 | ↳ | Engineering Co-op, System Integrity | Surrey, BC | [Apply](https://csjobs.ca/jobs/391376/engineering-co-op-system-integrity-at-fortisbc?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[MDA Space](https://csjobs.ca/companies/mda-space?utm_source=github&utm_medium=readme)** | Engineering Student - PCB Design and Electronic Integration - Winter 2027 | Sainte-Anne-de-Bellevue, QC | [Apply](https://csjobs.ca/jobs/388430/engineering-student-pcb-design-and-electronic-integration-winter-2027-at-mda-spa?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[StandardAero](https://csjobs.ca/companies/standardaero?utm_source=github&utm_medium=readme)** | Student/Intern - Engineering (Repair Development) | Winnipeg, MB | [Apply](https://csjobs.ca/jobs/382650/student-intern-engineering-repair-development-at-standardaero?utm_source=github&utm_medium=readme) | Oct 8 |
-| ↳ | Co-Op Engineer | Richmond, BC | [Apply](https://csjobs.ca/jobs/382649/co-op-engineer-at-standardaero?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[Nutrien](https://csjobs.ca/companies/nutrien?utm_source=github&utm_medium=readme)** | Co-Op, SHE&S Data, Reporting & Systems | Saskatoon, SK | [Apply](https://csjobs.ca/jobs/382599/co-op-she-s-data-reporting-systems-at-nutrien?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[Canadian Security Intelligence Service (CSIS)](https://csjobs.ca/companies/canadian-security-intelligence-service-csis?utm_source=github&utm_medium=readme)** | Co-op: IT and Engineering | Ottawa, ON | [Apply](https://csjobs.ca/jobs/382495/co-op-it-and-engineering-at-canadian-security-intelligence-service-csis-service-?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Manulife Financial](https://csjobs.ca/companies/manulife-financial?utm_source=github&utm_medium=readme)** | Product Management & Risk Technology Intern | Toronto, ON | [Apply](https://csjobs.ca/jobs/377794/product-management-risk-technology-intern-at-manulife-financial?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Vale Base Metals](https://csjobs.ca/companies/vale-base-metals?utm_source=github&utm_medium=readme)** | Engineering Co-Op Student | Sudbury, ON | [Apply](https://csjobs.ca/jobs/373693/engineering-co-op-student-at-vale-base-metals?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | Stagiaire développeur de matériel de formation (simulateur de vol) / Training Material Developer (Flight Simulator) | Montreal, QC | [Apply](https://csjobs.ca/jobs/373660/stagiaire-developpeur-de-materiel-de-formation-simulateur-de-vol-training-materi?utm_source=github&utm_medium=readme) | Oct 8 |
@@ -445,7 +442,6 @@ _Last updated October 12, 2026 at 09:20 UTC_
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/369857/engineer-i-at-td-bank?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | Junior Software Developer - System Integration Labs (North Shore) | Mirabel | [Apply](https://csjobs.ca/jobs/368260/junior-software-developer-system-integration-labs-north-shore-at-cae?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Euna Solutions](https://csjobs.ca/companies/euna-solutions?utm_source=github&utm_medium=readme)** | Associate Technical Solutions Specialist | Oakville, ON | [Apply](https://csjobs.ca/jobs/367500/associate-technical-solutions-specialist-at-euna-solutions?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | Graduate Software Engineer / Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365507/graduate-software-engineer-quant-developer-quant-researcher-up-to-150-000-bonus-?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Ecolab](https://csjobs.ca/companies/ecolab?utm_source=github&utm_medium=readme)** | Junior Quality Control Software Developer | Calgary, AB | [Apply](https://csjobs.ca/jobs/425597/junior-quality-control-software-developer-at-ecolab?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[REDPATH MINING](https://csjobs.ca/companies/redpath-mining?utm_source=github&utm_medium=readme)** | Junior IT Business Analyst (QA) | North Bay, ON | [Apply](https://csjobs.ca/jobs/402659/junior-it-business-analyst-qa-at-redpath-mining?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[TD](https://csjobs.ca/companies/td?utm_source=github&utm_medium=readme)** | Software Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/399486/software-engineer-i-at-td?utm_source=github&utm_medium=readme) | Oct 7 |
@@ -482,7 +478,7 @@ _Last updated October 12, 2026 at 09:20 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/436767/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/437504/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | Junior Front-End Engineer - Montreal - Up to $130,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, QC | [Apply](https://csjobs.ca/jobs/365509/junior-front-end-engineer-montreal-up-to-130-000-cad-starting-base-exceptional-b?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
