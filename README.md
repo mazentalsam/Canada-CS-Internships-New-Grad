@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-446-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-220-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-44-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-447-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-221-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-45-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (358)](#-internships--co-ops) · [🚀 New Grad & Junior (88)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (359)](#-internships--co-ops) · [🚀 New Grad & Junior (88)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 13, 2026 at 01:20 UTC_
+_Last updated October 13, 2026 at 01:31 UTC_
 
 ---
 
@@ -42,6 +42,7 @@ _Last updated October 13, 2026 at 01:20 UTC_
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
 | **[Databricks](https://csjobs.ca/companies/databricks?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer Intern | Vancouver, BC | [Apply](https://csjobs.ca/jobs/447139/software-engineer-intern-at-databricks?utm_source=github&utm_medium=readme) | Oct 13 |
+| **[The Zidian](https://csjobs.ca/companies/the-zidian?utm_source=github&utm_medium=readme)** | 🔥 Stagiaire – Développement de solutions intelligence artificielle | Rougemont, QC | [Apply](https://csjobs.ca/jobs/448156/stagiaire-developpement-de-solutions-intelligence-artificielle-at-the-zidian-gro?utm_source=github&utm_medium=readme) | Oct 12 |
 | **[Astera Labs](https://csjobs.ca/companies/astera-labs?utm_source=github&utm_medium=readme)** | 🔥 Analog Mixed Signal Engineer Intern (Toronto) | Toronto | [Apply](https://csjobs.ca/jobs/446926/analog-mixed-signal-engineer-intern-toronto-at-astera-labs?utm_source=github&utm_medium=readme) | Oct 12 |
 | **[Wind River International](https://csjobs.ca/companies/wind-river-international?utm_source=github&utm_medium=readme)** | 🔥 Engineering Intern | Kanata, ON | [Apply](https://csjobs.ca/jobs/446378/engineering-intern-at-wind-river-international-limited?utm_source=github&utm_medium=readme) | Oct 12 |
 | **[Autodesk](https://csjobs.ca/companies/autodesk?utm_source=github&utm_medium=readme)** | 🔥 Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP | Montréal, QC | [Apply](https://csjobs.ca/jobs/446373/stagiaire-en-developpement-cloud-intern-cloud-developer-fcap-at-autodesk-canada-?utm_source=github&utm_medium=readme) | Oct 12 |
