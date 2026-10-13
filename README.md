@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-522-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-245-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-67-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-526-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-246-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-71-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (414)](#-internships--co-ops) · [🚀 New Grad & Junior (108)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (418)](#-internships--co-ops) · [🚀 New Grad & Junior (108)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 13, 2026 at 09:22 UTC_
+_Last updated October 13, 2026 at 10:20 UTC_
 
 ---
 
@@ -41,6 +41,10 @@ _Last updated October 13, 2026 at 09:22 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Trane](https://csjobs.ca/companies/trane?utm_source=github&utm_medium=readme)** | 🔥 2027 BrainBox AI Intern | Montreal, QC | [Apply](https://csjobs.ca/jobs/453410/2027-brainbox-ai-intern-at-trane-technologies?utm_source=github&utm_medium=readme) | Oct 13 |
+| ↳ | 🔥 2027 Technical Sales Intern - Equipment | Markham, ON | [Apply](https://csjobs.ca/jobs/453403/2027-technical-sales-intern-equipment-at-trane-technologies?utm_source=github&utm_medium=readme) | Oct 13 |
+| ↳ | 🔥 2027 Technical Sales Intern - Services | London, ON | [Apply](https://csjobs.ca/jobs/453402/2027-technical-sales-intern-services-at-trane-technologies?utm_source=github&utm_medium=readme) | Oct 13 |
+| **[Captiveaire - Region 114 Western PA](https://csjobs.ca/companies/captiveaire-region-114-western-pa?utm_source=github&utm_medium=readme)** | 🔥 Technical Sales Intern- Mississauga | Mississauga, ON | [Apply](https://csjobs.ca/jobs/453401/technical-sales-intern-mississauga-at-captiveaire-region-114-western-pa?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Aptiv](https://csjobs.ca/companies/aptiv?utm_source=github&utm_medium=readme)** | 🔥 HVP/Cert  Engineering Intern | Ottawa, ON / CAN Kanata (2), ON - WR) | [Apply](https://csjobs.ca/jobs/453251/hvp-cert-engineering-intern-at-aptiv?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Wind River International](https://csjobs.ca/companies/wind-river-international?utm_source=github&utm_medium=readme)** | 🔥 Cloud Engineer Intern | Kanata, ON | [Apply](https://csjobs.ca/jobs/453067/cloud-engineer-intern-at-wind-river-international-limited?utm_source=github&utm_medium=readme) | Oct 13 |
 | ↳ | 🔥 Software Engineering Intern | Kanata, ON | [Apply](https://csjobs.ca/jobs/453066/software-engineering-intern-at-wind-river-international-limited?utm_source=github&utm_medium=readme) | Oct 13 |
