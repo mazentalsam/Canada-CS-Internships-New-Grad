@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-506-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-242-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-68-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-506-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-242-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-69-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (396)](#-internships--co-ops) · [🚀 New Grad & Junior (110)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (395)](#-internships--co-ops) · [🚀 New Grad & Junior (111)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 13, 2026 at 11:21 UTC_
+_Last updated October 13, 2026 at 12:05 UTC_
 
 ---
 
@@ -230,7 +230,6 @@ _Last updated October 13, 2026 at 11:21 UTC_
 | **[Brown and Caldwell](https://csjobs.ca/companies/brown-and-caldwell?utm_source=github&utm_medium=readme)** | Engineering Intern - Summer 2027 (Vancouver, B.C.) | Vancouver, BC | [Apply](https://csjobs.ca/jobs/361450/engineering-intern-summer-2027-vancouver-b-c-at-brown-and-caldwell?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Canada Life](https://csjobs.ca/companies/canada-life?utm_source=github&utm_medium=readme)** | Software Developer (Student Position) | Winnipeg, MB / Toronto, ON / London, ON | [Apply](https://csjobs.ca/jobs/361444/software-developer-student-position-at-canada-life?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[CM Labs Simulations](https://csjobs.ca/companies/cm-labs-simulations?utm_source=github&utm_medium=readme)** | Stagiaire développeur infonuagique/ Cloud Developer Intern | Montreal, QC | [Apply](https://csjobs.ca/jobs/361414/stagiaire-developpeur-infonuagique-cloud-developer-intern-at-cm-labs-simulations?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[Autodesk](https://csjobs.ca/companies/autodesk?utm_source=github&utm_medium=readme)** | PhD Researcher, AI Research (Summer 2027) | Toronto, ON | [Apply](https://csjobs.ca/jobs/450497/phd-researcher-ai-research-summer-2027-at-autodesk?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Flexspring](https://csjobs.ca/companies/flexspring?utm_source=github&utm_medium=readme)** | Full Stack Developer co-op | Montréal, QC - Work Remotely | [Apply](https://csjobs.ca/jobs/442192/full-stack-developer-co-op-at-flexspring-inc?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[AMD](https://csjobs.ca/companies/amd?utm_source=github&utm_medium=readme)** | Short Term 2027 Software Engineering Intern/Co-Op | Vancouver, BC | [Apply](https://csjobs.ca/jobs/442187/short-term-2027-software-engineering-intern-co-op-at-amd-canada?utm_source=github&utm_medium=readme) | Oct 7 |
 | ↳ | Short Term 2027 Firmware Engineering Intern/Co-Op | Vancouver, BC | [Apply](https://csjobs.ca/jobs/442185/short-term-2027-firmware-engineering-intern-co-op-at-amd-canada?utm_source=github&utm_medium=readme) | Oct 7 |
@@ -442,6 +441,7 @@ _Last updated October 13, 2026 at 11:21 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Hydro One](https://csjobs.ca/companies/hydro-one?utm_source=github&utm_medium=readme)** | 🔥 New Grad Program - Transmission & Stations Engineering - Toronto - June 2027 | Toronto, ON | [Apply](https://csjobs.ca/jobs/453964/new-grad-program-transmission-stations-engineering-toronto-june-2027-at-hydro-on?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Honeywell Aerospace](https://csjobs.ca/companies/honeywell-aerospace?utm_source=github&utm_medium=readme)** | 🔥 Test Engineer I | Mississauga, ON | [Apply](https://csjobs.ca/jobs/453698/test-engineer-i-at-honeywell-aerospace?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[OMD](https://csjobs.ca/companies/omd?utm_source=github&utm_medium=readme)** | 🔥 Junior Data Engineer | Toronto, ON | [Apply](https://csjobs.ca/jobs/453549/junior-data-engineer-at-omd?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Glia](https://csjobs.ca/companies/glia?utm_source=github&utm_medium=readme)** | 🔥 Associate, Client Engineer (Vancouver) | Vancouver, BC | [Apply](https://csjobs.ca/jobs/451500/associate-client-engineer-vancouver-at-glia?utm_source=github&utm_medium=readme) | Oct 13 |
