@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 14, 2026 at 16:23 UTC_
+_Last updated October 14, 2026 at 17:21 UTC_
 
 ---
 
@@ -102,7 +102,7 @@ _Last updated October 14, 2026 at 16:23 UTC_
 | **[Ericsson](https://csjobs.ca/companies/ericsson?utm_source=github&utm_medium=readme)** | 🔥 5G Software Developer Co-oP | Ottawa, ON | [✨ Pro](https://csjobs.ca/jobs/457766/5g-software-developer-co-op-at-ericsson?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Thurber Engineering](https://csjobs.ca/companies/thurber-engineering?utm_source=github&utm_medium=readme)** | 🔥 Geotechnical Engineering Intern (2026100991) | Ottawa, ON | [Apply](https://csjobs.ca/jobs/457455/geotechnical-engineering-intern-2026100991-at-thurber-engineering-ltd?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Wind River International](https://csjobs.ca/companies/wind-river-international?utm_source=github&utm_medium=readme)** | 🔥 HVP/Cert Engineering Intern | Kanata, ON | [Apply](https://csjobs.ca/jobs/457454/hvp-cert-engineering-intern-at-wind-river-international-limited?utm_source=github&utm_medium=readme) | Oct 13 |
-| **[Mott MacDonald](https://csjobs.ca/companies/mott-macdonald?utm_source=github&utm_medium=readme)** | 🔥 Apprentice/Intern Rail Engineer | Toronto, ON / Vancouver, BC | [Apply](https://csjobs.ca/jobs/457072/apprentice-intern-rail-engineer-at-mott-macdonald?utm_source=github&utm_medium=readme) | Oct 13 |
+| **[Mott MacDonald](https://csjobs.ca/companies/mott-macdonald?utm_source=github&utm_medium=readme)** | 🔥 Apprentice/Intern Rail Engineer | Vancouver, BC | [Apply](https://csjobs.ca/jobs/457071/apprentice-intern-rail-engineer-at-mott-macdonald?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | 🔥 C-GE-112 Stagiaire développeur(se) logiciel – Environnement immersif | Montreal, QC / Montreal (St. Laurent) | [Apply](https://csjobs.ca/jobs/457062/c-ge-112-stagiaire-developpeur-se-logiciel-environnement-immersif-at-cae?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Capital One](https://csjobs.ca/companies/capital-one?utm_source=github&utm_medium=readme)** | 🔥 Intern, Full Stack Software Engineer - Team Pickle - Winter 2027 | Toronto, ON | [Apply](https://csjobs.ca/jobs/456928/intern-full-stack-software-engineer-team-pickle-winter-2027-at-capital-one?utm_source=github&utm_medium=readme) | Oct 13 |
 | **[Vena Solutions](https://csjobs.ca/companies/vena-solutions?utm_source=github&utm_medium=readme)** | 🔥 Cloud & DevOps Engineer Co-op (May 2027 / 12-16 months) | Toronto, ON | [Apply](https://csjobs.ca/jobs/456922/cloud-devops-engineer-co-op-may-2027-12-16-months-at-vena-solutions?utm_source=github&utm_medium=readme) | Oct 13 |
@@ -471,7 +471,7 @@ _Last updated October 14, 2026 at 16:23 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/470258/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/470912/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | SVT/PV Engineer 1 - New Grad | Ottawa | [Apply](https://csjobs.ca/jobs/339187/svt-pv-engineer-1-new-grad-at-ciena?utm_source=github&utm_medium=readme) | Sep 21 |
