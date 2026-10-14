@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-437-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-224-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-128-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-439-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-226-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-131-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (344)](#-internships--co-ops) · [🚀 New Grad & Junior (93)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (344)](#-internships--co-ops) · [🚀 New Grad & Junior (95)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 14, 2026 at 14:23 UTC_
+_Last updated October 14, 2026 at 15:23 UTC_
 
 ---
 
@@ -390,6 +390,9 @@ _Last updated October 14, 2026 at 14:23 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[GIRO](https://csjobs.ca/companies/giro?utm_source=github&utm_medium=readme)** | 🔥 Développeur ou Développeuse Junior, Solutions clients | Montreal, QC | [Apply](https://csjobs.ca/jobs/469563/developpeur-ou-developpeuse-junior-solutions-clients-at-giro?utm_source=github&utm_medium=readme) | Oct 14 |
+| **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | 🔥 Graduate Quant Developer/Quant Researcher - Up to $175k CAD 1st Year TC | Montreal, QC | [Apply](https://csjobs.ca/jobs/469557/graduate-quant-developer-quant-researcher-up-to-175k-cad-1st-year-tc-at-hunter-b?utm_source=github&utm_medium=readme) | Oct 14 |
+| **[PointClickCare](https://csjobs.ca/companies/pointclickcare?utm_source=github&utm_medium=readme)** | 🔥 Canada- Jr Software Engineer (SRE) | Mississauga, ON | [Apply](https://csjobs.ca/jobs/469555/canada-jr-software-engineer-sre-at-pointclickcare?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[Semtech](https://csjobs.ca/companies/semtech?utm_source=github&utm_medium=readme)** | 🔥 Associate Engineer, Software Engineering | Burlington, ON / CAN - Burlington, ON | [Apply](https://csjobs.ca/jobs/467077/associate-engineer-software-engineering-at-semtech?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[Equinix](https://csjobs.ca/companies/equinix?utm_source=github&utm_medium=readme)** | 🔥 Data Center Expense Associate- Associé aux dépenses du centre de données | Montreal | [Apply](https://csjobs.ca/jobs/464809/data-center-expense-associate-associe-aux-depenses-du-centre-de-donnees-at-equin?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[PCI Industrial Automation](https://csjobs.ca/companies/pci-industrial-automation?utm_source=github&utm_medium=readme)** | 🔥 Concepteur-programmeur SCADA junior | Montreal, QC | [Apply](https://csjobs.ca/jobs/464019/concepteur-programmeur-scada-junior-at-pci-industrial-automation?utm_source=github&utm_medium=readme) | Oct 14 |
@@ -440,7 +443,6 @@ _Last updated October 14, 2026 at 14:23 UTC_
 | **[Canam](https://csjobs.ca/companies/canam?utm_source=github&utm_medium=readme)** | Développeur(euse) d'intégrations - Boomi / C#, junior | Sherbrooke, QC | [Apply](https://csjobs.ca/jobs/388555/developpeur-euse-d-integrations-boomi-c-junior-at-canam?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[Pattison Food](https://csjobs.ca/companies/pattison-food?utm_source=github&utm_medium=readme)** | Data Engineer 1 | Langley, BC | [Apply](https://csjobs.ca/jobs/379838/data-engineer-1-at-pattison-food-group?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[Hydro One](https://csjobs.ca/companies/hydro-one?utm_source=github&utm_medium=readme)** | New Grad Program - Project Estimating & Benchmarking - Engineering - Toronto - June 2027 | Toronto, ON | [Apply](https://csjobs.ca/jobs/454286/new-grad-program-project-estimating-benchmarking-engineering-toronto-june-2027-a?utm_source=github&utm_medium=readme) | Oct 8 |
-| **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | Graduate Quant Developer/Quant Researcher - Up to $175k CAD 1st Year TC | Montreal, QC | [Apply](https://csjobs.ca/jobs/426814/graduate-quant-developer-quant-researcher-up-to-175k-cad-1st-year-tc-at-hunter-b?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/369857/engineer-i-at-td-bank?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | Junior Software Developer - System Integration Labs (North Shore) | Mirabel | [Apply](https://csjobs.ca/jobs/368260/junior-software-developer-system-integration-labs-north-shore-at-cae?utm_source=github&utm_medium=readme) | Oct 8 |
 | **[Ecolab](https://csjobs.ca/companies/ecolab?utm_source=github&utm_medium=readme)** | Junior Quality Control Software Developer | Calgary, AB | [Apply](https://csjobs.ca/jobs/441888/junior-quality-control-software-developer-at-ecolab?utm_source=github&utm_medium=readme) | Oct 7 |
