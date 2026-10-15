@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 15, 2026 at 00:11 UTC_
+_Last updated October 15, 2026 at 00:20 UTC_
 
 ---
 
@@ -55,7 +55,7 @@ _Last updated October 15, 2026 at 00:11 UTC_
 | **[Profound Medical](https://csjobs.ca/companies/profound-medical?utm_source=github&utm_medium=readme)** | 🔥 Software Development Co-op Student | Mississauga, ON | [Apply](https://csjobs.ca/jobs/475152/software-development-co-op-student-at-profound-medical-inc?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[Manulife Financial](https://csjobs.ca/companies/manulife-financial?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer Intern | Waterloo, ON | [Apply](https://csjobs.ca/jobs/474949/software-engineer-intern-at-manulife-financial?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[Later](https://csjobs.ca/companies/later?utm_source=github&utm_medium=readme)** | 🔥 Data Science Co-op | Vancouver, BC | [Apply](https://csjobs.ca/jobs/473375/data-science-co-op-at-later?utm_source=github&utm_medium=readme) | Oct 14 |
-| **[Solink](https://csjobs.ca/companies/solink?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer Co-op, Apps | Ottawa Office / Ottawa, ON | [Apply](https://csjobs.ca/jobs/472799/software-engineer-co-op-apps-at-solink?utm_source=github&utm_medium=readme) | Oct 14 |
+| **[Solink](https://csjobs.ca/companies/solink?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer Co-op, Apps | Ottawa Office | [Apply](https://csjobs.ca/jobs/472799/software-engineer-co-op-apps-at-solink?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | 🔥 Wavelogic Modem HW Engineering Intern/Co-op (Winter 2027 - 4 month) | Ottawa, ON | [Apply](https://csjobs.ca/jobs/472619/wavelogic-modem-hw-engineering-intern-co-op-winter-2027-4-month-at-ciena?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[Lumentum](https://csjobs.ca/companies/lumentum?utm_source=github&utm_medium=readme)** | 🔥 Optical Engineering Co-op | Ottawa, ON / Canada - Ottawa (Bill Leathem) | [Apply](https://csjobs.ca/jobs/472573/optical-engineering-co-op-at-lumentum?utm_source=github&utm_medium=readme) | Oct 14 |
 | **[Pratt & Whitney](https://csjobs.ca/companies/pratt-and-whitney?utm_source=github&utm_medium=readme)** | 🔥 Stage - Hiver 2027 - Support aux opérations, département des accessoires / Internship - Winter 2027 - Technical Support, Accessories Department | Saint-Hubert, QC | [Apply](https://csjobs.ca/jobs/472529/stage-hiver-2027-support-aux-operations-departement-des-accessoires-internship-w?utm_source=github&utm_medium=readme) | Oct 14 |
@@ -485,7 +485,7 @@ _Last updated October 15, 2026 at 00:11 UTC_
 | **[Canadian Tire](https://csjobs.ca/companies/canadian-tire?utm_source=github&utm_medium=readme)** | New Graduate Program - 2027 Next Generation Talent Rotational Program, Technology Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/369271/new-graduate-program-2027-next-generation-talent-rotational-program-technology-a?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[Xero](https://csjobs.ca/companies/xero?utm_source=github&utm_medium=readme)** | Associate Engineer (Front End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368142/associate-engineer-front-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/475202/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/476067/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Engineering Graduate Programme (Fullstack) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369334/engineering-graduate-programme-fullstack-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | Mixed Signal IP Integration Engineer – New Grad | Ottawa | [Apply](https://csjobs.ca/jobs/281362/mixed-signal-ip-integration-engineer-new-grad-at-ciena?utm_source=github&utm_medium=readme) | Sep 21 |
