@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 15, 2026 at 09:04 UTC_
+_Last updated October 15, 2026 at 09:24 UTC_
 
 ---
 
@@ -403,7 +403,7 @@ _Last updated October 15, 2026 at 09:04 UTC_
 | **[RTX](https://csjobs.ca/companies/rtx?utm_source=github&utm_medium=readme)** | Stage - Hiver 2027-  Service Numériques pour les Moteurs – Ingénieur Système Sol / Internship - Winter 2027- Digital Engine Services (DES) – Ground system engineer | CA-QC-LONGUEUIL-MD ~ 1000 Blvd Marie-Victorin ~ MD BLDG | [Apply](https://csjobs.ca/jobs/479036/stage-hiver-2027-service-numeriques-pour-les-moteurs-ingenieur-systeme-sol-inter?utm_source=github&utm_medium=readme) | Sep 16 |
 | **[Apera AI](https://csjobs.ca/companies/apera-ai?utm_source=github&utm_medium=readme)** | Software Developer Co-op - C++ | Vancouver, BC | [Apply](https://csjobs.ca/jobs/242298/software-developer-co-op-c-at-apera-ai?utm_source=github&utm_medium=readme) | Sep 16 |
 | **[Qualcomm](https://csjobs.ca/companies/qualcomm?utm_source=github&utm_medium=readme)** | Sensors Subsystem Engineering Intern - Low-Power AI - Audio | Markham, ON | [✨ Pro](https://csjobs.ca/jobs/241818/sensors-subsystem-engineering-intern-low-power-ai-audio-at-qualcomm?utm_source=github&utm_medium=readme) | Sep 16 |
-| **[Farm Credit](https://csjobs.ca/companies/farm-credit?utm_source=github&utm_medium=readme)** | Student, IT | Regina, SK | [Apply](https://csjobs.ca/jobs/482267/student-it-at-farm-credit-canada?utm_source=github&utm_medium=readme) | Sep 15 |
+| **[Farm Credit](https://csjobs.ca/companies/farm-credit?utm_source=github&utm_medium=readme)** | Student, IT | Regina, SK | [Apply](https://csjobs.ca/jobs/483225/student-it-at-farm-credit-canada?utm_source=github&utm_medium=readme) | Sep 15 |
 | **[Lumentum](https://csjobs.ca/companies/lumentum?utm_source=github&utm_medium=readme)** | Embedded Software DevSecOps Engineer (Co-op Student) | Canada - Ottawa (Bill Leathem) | [Apply](https://csjobs.ca/jobs/481103/embedded-software-devsecops-engineer-co-op-student-at-lumentum?utm_source=github&utm_medium=readme) | Sep 15 |
 | **[Nexthop.ai](https://csjobs.ca/companies/nexthop-ai?utm_source=github&utm_medium=readme)** | Software Engineer Intern | Burnaby, BC | [Apply](https://csjobs.ca/jobs/480635/software-engineer-intern-at-nexthop-ai?utm_source=github&utm_medium=readme) | Sep 15 |
 | **[Danaher](https://csjobs.ca/companies/danaher?utm_source=github&utm_medium=readme)** | Mechatronics Engineering Co op | Vancouver, BC | [Apply](https://csjobs.ca/jobs/479083/mechatronics-engineering-co-op-at-danaher?utm_source=github&utm_medium=readme) | Sep 15 |
@@ -564,7 +564,7 @@ _Last updated October 15, 2026 at 09:04 UTC_
 | ↳ | Associate Engineer (Back End) | CAN: Alberta Remote Worker | [Apply](https://csjobs.ca/jobs/368141/associate-engineer-back-end-at-xero?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[GHD](https://csjobs.ca/companies/ghd?utm_source=github&utm_medium=readme)** | Environmental Engineering or Science Graduate | Mississauga, ON / Toronto, ON / St Catharines, ON | [Apply](https://csjobs.ca/jobs/477926/environmental-engineering-or-science-graduate-at-ghd?utm_source=github&utm_medium=readme) | Sep 23 |
 | ↳ | Engineering Graduate - Air and Noise | Waterloo, ON | [Apply](https://csjobs.ca/jobs/477921/engineering-graduate-air-and-noise-at-ghd?utm_source=github&utm_medium=readme) | Sep 23 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/481853/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/483045/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Curtiss-Wright](https://csjobs.ca/companies/curtiss-wright?utm_source=github&utm_medium=readme)** | Production Associate, CCA Test (3:30 pm – 12:00 midnight) | Canada-Ottawa | [Apply](https://csjobs.ca/jobs/479094/production-associate-cca-test-3-30-pm-12-00-midnight-at-curtiss-wright?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Magna International](https://csjobs.ca/companies/magna-international?utm_source=github&utm_medium=readme)** | Jr. Die Process & Development Engineer | Brampton, ON | [Apply](https://csjobs.ca/jobs/479046/jr-die-process-development-engineer-at-magna-international?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[LSEG](https://csjobs.ca/companies/lseg?utm_source=github&utm_medium=readme)** | Engineering Graduate Programme (Backend) | GBR-London-5 Canada Square | [Apply](https://csjobs.ca/jobs/369335/engineering-graduate-programme-backend-at-lseg?utm_source=github&utm_medium=readme) | Sep 21 |
