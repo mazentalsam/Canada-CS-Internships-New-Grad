@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-884-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-350-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-321-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-885-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-350-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-322-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (648)](#-internships--co-ops) · [🚀 New Grad & Junior (236)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (649)](#-internships--co-ops) · [🚀 New Grad & Junior (236)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 15, 2026 at 22:41 UTC_
+_Last updated October 15, 2026 at 23:23 UTC_
 
 ---
 
@@ -41,6 +41,8 @@ _Last updated October 15, 2026 at 22:41 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | 🔥 Wavelogic Embedded Software Developer Intern (Winter 2027) | Ottawa, ON / Ottawa | [Apply](https://csjobs.ca/jobs/495551/wavelogic-embedded-software-developer-intern-winter-2027-at-ciena?utm_source=github&utm_medium=readme) | Oct 15 |
+| **[MDA Space](https://csjobs.ca/companies/mda-space?utm_source=github&utm_medium=readme)** | 🔥 Engineering Student, Safety and Mission Assurance - Winter 2027 (12-16 months) | Brampton, ON | [Apply](https://csjobs.ca/jobs/495526/engineering-student-safety-and-mission-assurance-winter-2027-12-16-months-at-mda?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Ericsson](https://csjobs.ca/companies/ericsson?utm_source=github&utm_medium=readme)** | 🔥 Developpeur logiciel de produits etudiant Student Software Product Developer | Bas-Saint-Laurent, QC / Montreal, QC | [✨ Pro](https://csjobs.ca/jobs/495517/developpeur-logiciel-de-produits-etudiant-student-software-product-developer-at-?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[MIGSO-PCUBED](https://csjobs.ca/companies/migso-pcubed?utm_source=github&utm_medium=readme)** | 🔥 Stage – Technicien(ne) informatique / Support TI & Déploiement | Montreal, QC | [Apply](https://csjobs.ca/jobs/495443/stage-technicien-ne-informatique-support-ti-deploiement-at-migso-pcubed?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[SPS Commerce](https://csjobs.ca/companies/sps-commerce?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer Intern | CA ON Brampton Office / Brampton, ON | [Apply](https://csjobs.ca/jobs/495323/software-engineer-intern-at-sps-commerce?utm_source=github&utm_medium=readme) | Oct 15 |
@@ -70,7 +72,6 @@ _Last updated October 15, 2026 at 22:41 UTC_
 | **[Parsons](https://csjobs.ca/companies/parsons?utm_source=github&utm_medium=readme)** | 🔥 AI & Digital Innovation Engineering Intern | CA - ON, Toronto | [Apply](https://csjobs.ca/jobs/491929/ai-digital-innovation-engineering-intern-at-parsons?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[ABB](https://csjobs.ca/companies/abb?utm_source=github&utm_medium=readme)** | 🔥 Quality Engineering Intern-Winter 2027 | Dorval, QC | [Apply](https://csjobs.ca/jobs/491555/quality-engineering-intern-winter-2027-at-abb?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[BC Pensions](https://csjobs.ca/companies/bc-pensions?utm_source=github&utm_medium=readme)** | 🔥 Junior Infrastructure Specialist Co-op | Victoria, BC | [Apply](https://csjobs.ca/jobs/491527/junior-infrastructure-specialist-co-op-at-bc-pensions?utm_source=github&utm_medium=readme) | Oct 15 |
-| **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | 🔥 Wavelogic Embedded Software Developer Intern (Winter 2027) | Ottawa | [Apply](https://csjobs.ca/jobs/491404/wavelogic-embedded-software-developer-intern-winter-2027-at-ciena?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[BC Pension](https://csjobs.ca/companies/bc-pension?utm_source=github&utm_medium=readme)** | 🔥 Junior Infrastructure Specialist Co-op | Victoria, BC | [Apply](https://csjobs.ca/jobs/491005/junior-infrastructure-specialist-co-op-at-bc-pension-corporation?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Semtech](https://csjobs.ca/companies/semtech?utm_source=github&utm_medium=readme)** | 🔥 Digital IC Design Engineering Intern | Burlington, ON / CAN - Burlington, ON / CAN - Ottawa, ON | [Apply](https://csjobs.ca/jobs/490848/digital-ic-design-engineering-intern-at-semtech?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[BURNCO Rock Products](https://csjobs.ca/companies/burnco-rock-products?utm_source=github&utm_medium=readme)** | 🔥 IT Support Analyst Student | Calgary, AB | [Apply](https://csjobs.ca/jobs/490845/it-support-analyst-student-at-burnco-rock-products-ltd?utm_source=github&utm_medium=readme) | Oct 15 |
