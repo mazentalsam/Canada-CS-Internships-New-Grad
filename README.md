@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 15, 2026 at 22:33 UTC_
+_Last updated October 15, 2026 at 22:41 UTC_
 
 ---
 
@@ -41,6 +41,7 @@ _Last updated October 15, 2026 at 22:33 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Ericsson](https://csjobs.ca/companies/ericsson?utm_source=github&utm_medium=readme)** | 🔥 Developpeur logiciel de produits etudiant Student Software Product Developer | Bas-Saint-Laurent, QC / Montreal, QC | [✨ Pro](https://csjobs.ca/jobs/495517/developpeur-logiciel-de-produits-etudiant-student-software-product-developer-at-?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[MIGSO-PCUBED](https://csjobs.ca/companies/migso-pcubed?utm_source=github&utm_medium=readme)** | 🔥 Stage – Technicien(ne) informatique / Support TI & Déploiement | Montreal, QC | [Apply](https://csjobs.ca/jobs/495443/stage-technicien-ne-informatique-support-ti-deploiement-at-migso-pcubed?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[SPS Commerce](https://csjobs.ca/companies/sps-commerce?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer Intern | CA ON Brampton Office / Brampton, ON | [Apply](https://csjobs.ca/jobs/495323/software-engineer-intern-at-sps-commerce?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[RTX](https://csjobs.ca/companies/rtx?utm_source=github&utm_medium=readme)** | 🔥 Quality Engineering Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A | [Apply](https://csjobs.ca/jobs/495250/quality-engineering-intern-summer-2027-at-rtx?utm_source=github&utm_medium=readme) | Oct 15 |
@@ -65,7 +66,6 @@ _Last updated October 15, 2026 at 22:33 UTC_
 | **[ABB](https://csjobs.ca/companies/abb?utm_source=github&utm_medium=readme)** | 🔥 Project Engineer Intern-Winter 2027 | Saint-Laurent, QC | [Apply](https://csjobs.ca/jobs/493821/project-engineer-intern-winter-2027-at-abb?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Intel](https://csjobs.ca/companies/intel?utm_source=github&utm_medium=readme)** | 🔥 Compiler Engineering Intern | Toronto, ON | [Apply](https://csjobs.ca/jobs/493796/compiler-engineering-intern-at-intel-corporation?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[IBM](https://csjobs.ca/companies/ibm?utm_source=github&utm_medium=readme)** | 🔥 AI & Automation Consultant Intern / Stagiaire conseiller en IA et automatisation | Multiple Cities | [✨ Pro](https://csjobs.ca/jobs/493647/ai-automation-consultant-intern-stagiaire-conseiller-en-ia-et-automatisation-at-?utm_source=github&utm_medium=readme) | Oct 15 |
-| **[Ericsson](https://csjobs.ca/companies/ericsson?utm_source=github&utm_medium=readme)** | 🔥 Developpeur logiciel de produits etudiant Student Software Product Developer | Montreal, QC | [✨ Pro](https://csjobs.ca/jobs/492576/developpeur-logiciel-de-produits-etudiant-student-software-product-developer-at-?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | 🔥 TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto, ON | [Apply](https://csjobs.ca/jobs/492340/td-asset-management-portfolio-analytics-data-analyst-intern-co-op-winter-2027-at?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Parsons](https://csjobs.ca/companies/parsons?utm_source=github&utm_medium=readme)** | 🔥 AI & Digital Innovation Engineering Intern | CA - ON, Toronto | [Apply](https://csjobs.ca/jobs/491929/ai-digital-innovation-engineering-intern-at-parsons?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[ABB](https://csjobs.ca/companies/abb?utm_source=github&utm_medium=readme)** | 🔥 Quality Engineering Intern-Winter 2027 | Dorval, QC | [Apply](https://csjobs.ca/jobs/491555/quality-engineering-intern-winter-2027-at-abb?utm_source=github&utm_medium=readme) | Oct 15 |
