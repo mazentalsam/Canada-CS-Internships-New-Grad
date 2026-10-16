@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-899-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-347-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-284-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-898-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-346-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-283-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (664)](#-internships--co-ops) · [🚀 New Grad & Junior (235)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (663)](#-internships--co-ops) · [🚀 New Grad & Junior (235)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 16, 2026 at 19:25 UTC_
+_Last updated October 16, 2026 at 19:45 UTC_
 
 ---
 
@@ -142,7 +142,6 @@ _Last updated October 16, 2026 at 19:25 UTC_
 | **[Nokia](https://csjobs.ca/companies/nokia?utm_source=github&utm_medium=readme)** | 🔥 Embedded C/C++ SW Developer Co-op/Intern | Kanata, ON / Canada | [✨ Pro](https://csjobs.ca/jobs/493926/embedded-c-c-sw-developer-co-op-intern-at-nokia?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[The Herbal Market - integrative wellness clinic](https://csjobs.ca/companies/the-herbal-market-integrative-wellness-clinic?utm_source=github&utm_medium=readme)** | 🔥 Student Website Developer | Winnipeg, MB | [Apply](https://csjobs.ca/jobs/493836/student-website-developer-at-the-herbal-market-integrative-wellness-clinic?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[IBM](https://csjobs.ca/companies/ibm?utm_source=github&utm_medium=readme)** | 🔥 AI & Automation Consultant Intern / Stagiaire conseiller en IA et automatisation | Multiple Cities | [✨ Pro](https://csjobs.ca/jobs/493647/ai-automation-consultant-intern-stagiaire-conseiller-en-ia-et-automatisation-at-?utm_source=github&utm_medium=readme) | Oct 15 |
-| **[Parsons](https://csjobs.ca/companies/parsons?utm_source=github&utm_medium=readme)** | 🔥 AI & Digital Innovation Engineering Intern | CA - ON, Toronto | [Apply](https://csjobs.ca/jobs/491929/ai-digital-innovation-engineering-intern-at-parsons?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[BC Pensions](https://csjobs.ca/companies/bc-pensions?utm_source=github&utm_medium=readme)** | 🔥 Junior Infrastructure Specialist Co-op | Victoria, BC | [Apply](https://csjobs.ca/jobs/491527/junior-infrastructure-specialist-co-op-at-bc-pensions?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[BC Pension](https://csjobs.ca/companies/bc-pension?utm_source=github&utm_medium=readme)** | 🔥 Junior Infrastructure Specialist Co-op | Victoria, BC | [Apply](https://csjobs.ca/jobs/491005/junior-infrastructure-specialist-co-op-at-bc-pension-corporation?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Semtech](https://csjobs.ca/companies/semtech?utm_source=github&utm_medium=readme)** | 🔥 Digital IC Design Engineering Intern | Burlington, ON / CAN - Burlington, ON / CAN - Ottawa, ON | [Apply](https://csjobs.ca/jobs/490848/digital-ic-design-engineering-intern-at-semtech?utm_source=github&utm_medium=readme) | Oct 15 |
