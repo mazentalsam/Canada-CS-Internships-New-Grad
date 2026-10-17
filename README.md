@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 17, 2026 at 00:26 UTC_
+_Last updated October 17, 2026 at 00:44 UTC_
 
 ---
 
@@ -41,6 +41,7 @@ _Last updated October 17, 2026 at 00:26 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[D2L](https://csjobs.ca/companies/d2l?utm_source=github&utm_medium=readme)** | 🔥 Software Developer - Winter 2027 Co-op - Custom Development Services | Kitchener, ON | [Apply](https://csjobs.ca/jobs/519316/software-developer-winter-2027-co-op-custom-development-services-at-d2l?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[Pratt & Whitney](https://csjobs.ca/companies/pratt-and-whitney?utm_source=github&utm_medium=readme)** | 🔥 Stage - Hiver 2027 - Étudiant en génie des matériaux (8 Mois) / Internship - Winter 2027 - Materials Engineering (8 Months) | Longueuil, QC | [Apply](https://csjobs.ca/jobs/519000/stage-hiver-2027-etudiant-en-genie-des-materiaux-8-mois-internship-winter-2027-m?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[Cisco](https://csjobs.ca/companies/cisco?utm_source=github&utm_medium=readme)** | 🔥 Software Developer Embedded Systems I (Co-op) - Canada | Kanata, ON | [✨ Pro](https://csjobs.ca/jobs/518963/software-developer-embedded-systems-i-co-op-canada-at-cisco?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[Enverus](https://csjobs.ca/companies/enverus?utm_source=github&utm_medium=readme)** | 🔥 Intelligence Intern - 26410 | Calgary, AB | [Apply](https://csjobs.ca/jobs/518957/intelligence-intern-26410-at-enverus?utm_source=github&utm_medium=readme) | Oct 16 |
@@ -76,7 +77,6 @@ _Last updated October 17, 2026 at 00:26 UTC_
 | **[GoTo](https://csjobs.ca/companies/goto?utm_source=github&utm_medium=readme)** | 🔥 Stagiaire développeur logiciel DOIS - BORG/ Intern | Remote (Quebec) | [Apply](https://csjobs.ca/jobs/514126/stagiaire-developpeur-logiciel-dois-borg-intern-at-goto-group?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[Eaton](https://csjobs.ca/companies/eaton?utm_source=github&utm_medium=readme)** | 🔥 Stagiaire, développeur(euse) C++ | Brossard, QC | [Apply](https://csjobs.ca/jobs/513900/stagiaire-developpeur-euse-c-at-eaton?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[Altera](https://csjobs.ca/companies/altera?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer -  Intern | Toronto, ON | [Apply](https://csjobs.ca/jobs/513809/software-engineer-intern-at-altera-corporation?utm_source=github&utm_medium=readme) | Oct 16 |
-| **[D2L](https://csjobs.ca/companies/d2l?utm_source=github&utm_medium=readme)** | 🔥 Software Developer - Winter 2027 Co-op - Custom Development Services | Kitchener, ON | [Apply](https://csjobs.ca/jobs/513271/software-developer-winter-2027-co-op-custom-development-services-at-d2l?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[MDA Space](https://csjobs.ca/companies/mda-space?utm_source=github&utm_medium=readme)** | 🔥 Engineering Student, Systems Design - Winter 2027 | Brampton, ON | [Apply](https://csjobs.ca/jobs/513098/engineering-student-systems-design-winter-2027-at-mda-space?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[Boeing](https://csjobs.ca/companies/boeing?utm_source=github&utm_medium=readme)** | 🔥 Analytics Business Operations Intern (Government Services) | Richmond, BC | [Apply](https://csjobs.ca/jobs/512914/analytics-business-operations-intern-government-services-at-boeing?utm_source=github&utm_medium=readme) | Oct 16 |
 | ↳ | 🔥 Data Science Intern | Richmond, BC | [Apply](https://csjobs.ca/jobs/512900/data-science-intern-at-boeing?utm_source=github&utm_medium=readme) | Oct 16 |
@@ -465,7 +465,7 @@ _Last updated October 17, 2026 at 00:26 UTC_
 | **[Human Computer Lab](https://csjobs.ca/companies/human-computer-lab?utm_source=github&utm_medium=readme)** | Intern - Mechatronics Engineer | Toronto | [Apply](https://csjobs.ca/jobs/368133/intern-mechatronics-engineer-at-human-computer-lab?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Autodesk](https://csjobs.ca/companies/autodesk?utm_source=github&utm_medium=readme)** | Research Intern - AI Research 🎓 | Toronto, ON | [Apply](https://csjobs.ca/jobs/357070/research-intern-ai-research-at-autodesk?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Simon-Kucher](https://csjobs.ca/companies/simon-kucher?utm_source=github&utm_medium=readme)** | Summer 2027 Intern - Elevate/Data Science [UG/Masters] | Toronto, ON | [Apply](https://csjobs.ca/jobs/356023/summer-2027-intern-elevate-data-science-ug-masters-at-simon-kucher?utm_source=github&utm_medium=readme) | Oct 7 |
-| **[Bell](https://csjobs.ca/companies/bell?utm_source=github&utm_medium=readme)** | 2027 Intern Program, Technology Innovation - Future Opportunities | Montreal, QC / Toronto, ON / Ottawa, ON +1 more | [✨ Pro](https://csjobs.ca/jobs/353201/2027-intern-program-technology-innovation-future-opportunities-at-bell?utm_source=github&utm_medium=readme) | Oct 7 |
+| **[Bell](https://csjobs.ca/companies/bell?utm_source=github&utm_medium=readme)** | 2027 Intern Program, Technology Innovation - Future Opportunities | Montreal, QC / Ottawa, ON / Mississauga, ON | [✨ Pro](https://csjobs.ca/jobs/353201/2027-intern-program-technology-innovation-future-opportunities-at-bell?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Boston Scientific](https://csjobs.ca/companies/boston-scientific?utm_source=github&utm_medium=readme)** | R&D Engineering Associate, Co-op/New Grad | Mississauga, ON | [Apply](https://csjobs.ca/jobs/351832/r-d-engineering-associate-co-op-new-grad-at-boston-scientific?utm_source=github&utm_medium=readme) | Oct 7 |
 | **[Qualcomm](https://csjobs.ca/companies/qualcomm?utm_source=github&utm_medium=readme)** | FY27 Intern - Machine Learning Compiler Performance Engineering Intern - Canada (16 months) | Markham, ON | [Apply](https://csjobs.ca/jobs/511332/fy27-intern-machine-learning-compiler-performance-engineering-intern-canada-16-m?utm_source=github&utm_medium=readme) | Oct 6 |
 | **[Celestica](https://csjobs.ca/companies/celestica?utm_source=github&utm_medium=readme)** | Student Intern IL, Quality Engineering & FAI 1 | Newmarket, ON | [Apply](https://csjobs.ca/jobs/490330/student-intern-il-quality-engineering-fai-1-at-celestica?utm_source=github&utm_medium=readme) | Oct 6 |
