@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1166-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-460-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-179-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1165-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-460-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-179-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (856)](#-internships--co-ops) · [🚀 New Grad & Junior (310)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (855)](#-internships--co-ops) · [🚀 New Grad & Junior (310)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 20, 2026 at 15:53 UTC_
+_Last updated October 20, 2026 at 16:29 UTC_
 
 ---
 
@@ -458,7 +458,6 @@ _Last updated October 20, 2026 at 15:53 UTC_
 | ↳ | Software Engineer Co-op | Vancouver, BC | [✨ Pro](https://csjobs.ca/jobs/522165/software-engineer-co-op-at-electronic-arts?utm_source=github&utm_medium=readme) | Oct 10 |
 | **[Varian](https://csjobs.ca/companies/varian?utm_source=github&utm_medium=readme)** | Software Developer Co-op - Red River College | YWG BW | [Apply](https://csjobs.ca/jobs/479052/software-developer-co-op-red-river-college-at-varian?utm_source=github&utm_medium=readme) | Oct 10 |
 | **[Magnet Forensics](https://csjobs.ca/companies/magnet-forensics?utm_source=github&utm_medium=readme)** | Software Developer Co-op (Winter 2027) | Waterloo, ON / Ottawa / Waterloo / Ottawa / Ontario | [Apply](https://csjobs.ca/jobs/464449/software-developer-co-op-winter-2027-at-magnet-forensics?utm_source=github&utm_medium=readme) | Oct 10 |
-| **[SAP](https://csjobs.ca/companies/sap?utm_source=github&utm_medium=readme)** | SAP iXp Intern - Technical Project Coordinator | Vancouver, BC | [✨ Pro](https://csjobs.ca/jobs/442351/sap-ixp-intern-technical-project-coordinator-at-sap?utm_source=github&utm_medium=readme) | Oct 10 |
 | **[Lockheed Martin](https://csjobs.ca/companies/lockheed-martin?utm_source=github&utm_medium=readme)** | Winter Co-op - Systems Engineer - Supportability Team | Montréal, QC | [Apply](https://csjobs.ca/jobs/625891/winter-co-op-systems-engineer-supportability-team-at-lockheed-martin-canada-inc?utm_source=github&utm_medium=readme) | Oct 9 |
 | ↳ | Technical Co-op I: Software Development Intern | Calgary, AB | [Apply](https://csjobs.ca/jobs/625723/technical-co-op-i-software-development-intern-at-lockheed-martin-canada-inc?utm_source=github&utm_medium=readme) | Oct 9 |
 | **[Celestica](https://csjobs.ca/companies/celestica?utm_source=github&utm_medium=readme)** | Student Intern, IT Application Associate | Toronto, ON | [Apply](https://csjobs.ca/jobs/625670/student-intern-it-application-associate-at-celestica?utm_source=github&utm_medium=readme) | Oct 9 |
