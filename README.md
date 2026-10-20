@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 20, 2026 at 11:26 UTC_
+_Last updated October 20, 2026 at 12:28 UTC_
 
 ---
 
@@ -619,7 +619,7 @@ _Last updated October 20, 2026 at 11:26 UTC_
 | **[Nokia](https://csjobs.ca/companies/nokia?utm_source=github&utm_medium=readme)** | Learning Technical Editor Co-op/Intern | Canada | [✨ Pro](https://csjobs.ca/jobs/477850/learning-technical-editor-co-op-intern-at-nokia?utm_source=github&utm_medium=readme) | Sep 21 |
 | **[NVIDIA](https://csjobs.ca/companies/nvidia?utm_source=github&utm_medium=readme)** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Toronto | [✨ Pro](https://csjobs.ca/jobs/369348/phd-research-intern-quantum-and-ai-for-chemistry-2027-at-nvidia?utm_source=github&utm_medium=readme) | Sep 21 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | Tax Intern – Tax Technology & AI Enablement | Montreal (St. Laurent) | [Apply](https://csjobs.ca/jobs/268341/tax-intern-tax-technology-ai-enablement-at-cae?utm_source=github&utm_medium=readme) | Sep 21 |
-| **[Farm Credit](https://csjobs.ca/companies/farm-credit?utm_source=github&utm_medium=readme)** | Student, IT | Regina, SK | [Apply](https://csjobs.ca/jobs/627519/student-it-at-farm-credit-canada?utm_source=github&utm_medium=readme) | Sep 20 |
+| **[Farm Credit](https://csjobs.ca/companies/farm-credit?utm_source=github&utm_medium=readme)** | Student, IT | Regina, SK | [Apply](https://csjobs.ca/jobs/628701/student-it-at-farm-credit-canada?utm_source=github&utm_medium=readme) | Sep 20 |
 | **[Autodesk](https://csjobs.ca/companies/autodesk?utm_source=github&utm_medium=readme)** | Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP | Montreal, QC | [Apply](https://csjobs.ca/jobs/611525/stagiaire-en-developpement-cloud-intern-cloud-developer-fcap-at-autodesk?utm_source=github&utm_medium=readme) | Sep 19 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | Wavelogic Modem HW Engineering Intern/Co-op (Winter 2027 - 4 month) | Ottawa | [Apply](https://csjobs.ca/jobs/596476/wavelogic-modem-hw-engineering-intern-co-op-winter-2027-4-month-at-ciena?utm_source=github&utm_medium=readme) | Sep 19 |
 | **[Achievers](https://csjobs.ca/companies/achievers?utm_source=github&utm_medium=readme)** | Software Engineer Co-op | Toronto, ON | [Apply](https://csjobs.ca/jobs/270137/software-engineer-co-op-at-achievers?utm_source=github&utm_medium=readme) | Sep 19 |
@@ -1082,7 +1082,7 @@ _Last updated October 20, 2026 at 11:26 UTC_
 | **[Investment Management Corporation of Ontario](https://csjobs.ca/companies/investment-management-corporation-of-ontario?utm_source=github&utm_medium=readme)** | Associate, Data Management | Toronto - 16 York St | [Apply](https://csjobs.ca/jobs/369326/associate-data-management-at-investment-management-corporation-of-ontario?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[GHD](https://csjobs.ca/companies/ghd?utm_source=github&utm_medium=readme)** | Environmental Engineering or Science Graduate | Mississauga, ON / Toronto, ON / St Catharines, ON | [Apply](https://csjobs.ca/jobs/477926/environmental-engineering-or-science-graduate-at-ghd?utm_source=github&utm_medium=readme) | Sep 23 |
 | ↳ | Engineering Graduate - Air and Noise | Waterloo, ON | [Apply](https://csjobs.ca/jobs/477921/engineering-graduate-air-and-noise-at-ghd?utm_source=github&utm_medium=readme) | Sep 23 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/627019/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/628216/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Fundserv](https://csjobs.ca/companies/fundserv?utm_source=github&utm_medium=readme)** | Junior Database Administrator | Toronto, ON | [Apply](https://csjobs.ca/jobs/622086/junior-database-administrator-at-fundserv?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Mufginvestorservices](https://csjobs.ca/companies/mufginvestorservices?utm_source=github&utm_medium=readme)** | Junior Associate Director, Business Data Office, Client Onboarding Solutions | Halifax, NS | [Apply](https://csjobs.ca/jobs/622085/junior-associate-director-business-data-office-client-onboarding-solutions-at-mu?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Celestica](https://csjobs.ca/companies/celestica?utm_source=github&utm_medium=readme)** | Associate, IT Infrastructure | San Jose | [Apply](https://csjobs.ca/jobs/490336/associate-it-infrastructure-at-celestica?utm_source=github&utm_medium=readme) | Sep 22 |
