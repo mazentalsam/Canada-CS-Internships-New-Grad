@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 21, 2026 at 09:25 UTC_
+_Last updated October 21, 2026 at 10:24 UTC_
 
 ---
 
@@ -669,7 +669,7 @@ _Last updated October 21, 2026 at 09:25 UTC_
 | **[General Dynamics Mission Systems](https://csjobs.ca/companies/general-dynamics-mission-systems?utm_source=github&utm_medium=readme)** | Co-op Winter 2027 - Software Engineering - 4-8 months | Cole Harbour, NS | [Apply](https://csjobs.ca/jobs/477961/co-op-winter-2027-software-engineering-4-8-months-at-general-dynamics-mission-sy?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Astera Labs](https://csjobs.ca/companies/astera-labs?utm_source=github&utm_medium=readme)** | Firmware Engineer Intern (Ottawa) | Ottawa | [Apply](https://csjobs.ca/jobs/367947/firmware-engineer-intern-ottawa-at-astera-labs?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Danaher](https://csjobs.ca/companies/danaher?utm_source=github&utm_medium=readme)** | Hardware Engineer Co-op | Concord, ON | [Apply](https://csjobs.ca/jobs/285587/hardware-engineer-co-op-at-danaher?utm_source=github&utm_medium=readme) | Sep 22 |
-| **[Farm Credit](https://csjobs.ca/companies/farm-credit?utm_source=github&utm_medium=readme)** | Student, IT | Regina, SK | [Apply](https://csjobs.ca/jobs/652701/student-it-at-farm-credit-canada?utm_source=github&utm_medium=readme) | Sep 21 |
+| **[Farm Credit](https://csjobs.ca/companies/farm-credit?utm_source=github&utm_medium=readme)** | Student, IT | Regina, SK | [Apply](https://csjobs.ca/jobs/653916/student-it-at-farm-credit-canada?utm_source=github&utm_medium=readme) | Sep 21 |
 | **[Pason Systems](https://csjobs.ca/companies/pason-systems?utm_source=github&utm_medium=readme)** | Data Science Intern | Calgary, AB | [Apply](https://csjobs.ca/jobs/642037/data-science-intern-at-pason-systems?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Software Developer Intern (Rigsite) | Calgary, AB | [Apply](https://csjobs.ca/jobs/622164/software-developer-intern-rigsite-at-pason-systems?utm_source=github&utm_medium=readme) | Sep 21 |
 | ↳ | Software Developer Intern (Enterprise Applications) | Calgary, AB | [Apply](https://csjobs.ca/jobs/622163/software-developer-intern-enterprise-applications-at-pason-systems?utm_source=github&utm_medium=readme) | Sep 21 |
@@ -922,7 +922,7 @@ _Last updated October 21, 2026 at 09:25 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Hewlett Packard Enterprise](https://csjobs.ca/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme)** | 🔥 HPC Technology Consultant Graduate | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/652586/hpc-technology-consultant-graduate-at-hewlett-packard-enterprise?utm_source=github&utm_medium=readme) | Oct 21 |
+| **[Hewlett Packard Enterprise](https://csjobs.ca/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme)** | 🔥 HPC Technology Consultant Graduate | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/653798/hpc-technology-consultant-graduate-at-hewlett-packard-enterprise?utm_source=github&utm_medium=readme) | Oct 21 |
 | **[Wayfair](https://csjobs.ca/companies/wayfair?utm_source=github&utm_medium=readme)** | 🔥 Machine Learning Scientist I | Toronto, ON | [Apply](https://csjobs.ca/jobs/651611/machine-learning-scientist-i-at-wayfair?utm_source=github&utm_medium=readme) | Oct 21 |
 | **[Michelin](https://csjobs.ca/companies/michelin?utm_source=github&utm_medium=readme)** | 🔥 2026 - 2027 Engineering Graduates | New Glasgow, NS / Waterville, NS / New Glasgow | [Apply](https://csjobs.ca/jobs/647450/2026-2027-engineering-graduates-at-michelin?utm_source=github&utm_medium=readme) | Oct 21 |
 | **[Thales](https://csjobs.ca/companies/thales?utm_source=github&utm_medium=readme)** | 🔥 MWAV Maintenance Support Tech - Entry Level | Victoria - 905 Ellery | [Apply](https://csjobs.ca/jobs/642755/mwav-maintenance-support-tech-entry-level-at-thales?utm_source=github&utm_medium=readme) | Oct 21 |
@@ -1146,7 +1146,7 @@ _Last updated October 21, 2026 at 09:25 UTC_
 | ↳ | Entry Level Software Developer 2027 | Markham | [✨ Pro](https://csjobs.ca/jobs/625502/entry-level-software-developer-2027-at-ibm?utm_source=github&utm_medium=readme) | Sep 24 |
 | **[GHD](https://csjobs.ca/companies/ghd?utm_source=github&utm_medium=readme)** | Environmental Engineering or Science Graduate | Mississauga, ON / Toronto, ON / St Catharines, ON | [Apply](https://csjobs.ca/jobs/477926/environmental-engineering-or-science-graduate-at-ghd?utm_source=github&utm_medium=readme) | Sep 23 |
 | ↳ | Engineering Graduate - Air and Noise | Waterloo, ON | [Apply](https://csjobs.ca/jobs/477921/engineering-graduate-air-and-noise-at-ghd?utm_source=github&utm_medium=readme) | Sep 23 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/652158/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/653380/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Fundserv](https://csjobs.ca/companies/fundserv?utm_source=github&utm_medium=readme)** | Junior Database Administrator | Toronto, ON | [Apply](https://csjobs.ca/jobs/622086/junior-database-administrator-at-fundserv?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Mufginvestorservices](https://csjobs.ca/companies/mufginvestorservices?utm_source=github&utm_medium=readme)** | Junior Associate Director, Business Data Office, Client Onboarding Solutions | Halifax, NS | [Apply](https://csjobs.ca/jobs/622085/junior-associate-director-business-data-office-client-onboarding-solutions-at-mu?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Celestica](https://csjobs.ca/companies/celestica?utm_source=github&utm_medium=readme)** | Associate, IT Infrastructure | San Jose | [Apply](https://csjobs.ca/jobs/490336/associate-it-infrastructure-at-celestica?utm_source=github&utm_medium=readme) | Sep 22 |
