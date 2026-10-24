@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1248-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-492-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-213-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1247-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-492-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-213-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (911)](#-internships--co-ops) · [🚀 New Grad & Junior (337)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (910)](#-internships--co-ops) · [🚀 New Grad & Junior (337)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 24, 2026 at 07:26 UTC_
+_Last updated October 24, 2026 at 07:45 UTC_
 
 ---
 
@@ -258,7 +258,6 @@ _Last updated October 24, 2026 at 07:26 UTC_
 | **[Seaspan](https://csjobs.ca/companies/seaspan?utm_source=github&utm_medium=readme)** | Intern, Engineering Services (8 Months) | North Vancouver, BC | [Apply](https://csjobs.ca/jobs/718263/intern-engineering-services-8-months-at-seaspan?utm_source=github&utm_medium=readme) | Oct 20 |
 | **[Kepler Communications](https://csjobs.ca/companies/kepler-communications?utm_source=github&utm_medium=readme)** | IT Intern (January 2027) (4 months) | Toronto, ON | [Apply](https://csjobs.ca/jobs/713521/it-intern-january-2027-4-months-at-kepler-communications-inc?utm_source=github&utm_medium=readme) | Oct 20 |
 | **[SOTI](https://csjobs.ca/companies/soti?utm_source=github&utm_medium=readme)** | Cloud Administrator (Intern) | Mississauga, Canada – Meadowvale Office (HQ) | [Apply](https://csjobs.ca/jobs/711840/cloud-administrator-intern-at-soti?utm_source=github&utm_medium=readme) | Oct 20 |
-| **[Hitachi](https://csjobs.ca/companies/hitachi?utm_source=github&utm_medium=readme)** | AI Intern, Supply Chain (Winter 2027, 12months) | Toronto, ON | [Apply](https://csjobs.ca/jobs/711740/ai-intern-supply-chain-winter-2027-12months-at-hitachi?utm_source=github&utm_medium=readme) | Oct 20 |
 | **[Qualcomm](https://csjobs.ca/companies/qualcomm?utm_source=github&utm_medium=readme)** | FY27 Intern - Machine Learning AISW Internship - Canada (4 Months) | Markham, ON | [✨ Pro](https://csjobs.ca/jobs/711638/fy27-intern-machine-learning-aisw-internship-canada-4-months-at-qualcomm?utm_source=github&utm_medium=readme) | Oct 20 |
 | **[Ericsson](https://csjobs.ca/companies/ericsson?utm_source=github&utm_medium=readme)** | Radio Algorithm Co-op | Ottawa, ON | [✨ Pro](https://csjobs.ca/jobs/711411/radio-algorithm-co-op-at-ericsson?utm_source=github&utm_medium=readme) | Oct 20 |
 | **[Altera](https://csjobs.ca/companies/altera?utm_source=github&utm_medium=readme)** | FPGA IP Design Engineer - Intern | Toronto, ON | [Apply](https://csjobs.ca/jobs/711269/fpga-ip-design-engineer-intern-at-altera-corporation?utm_source=github&utm_medium=readme) | Oct 20 |
