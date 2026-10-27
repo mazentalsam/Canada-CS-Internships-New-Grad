@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1143-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-430-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-131-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1144-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-431-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-132-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (850)](#-internships--co-ops) · [🚀 New Grad & Junior (293)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (850)](#-internships--co-ops) · [🚀 New Grad & Junior (294)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 27, 2026 at 11:07 UTC_
+_Last updated October 27, 2026 at 11:28 UTC_
 
 ---
 
@@ -896,6 +896,7 @@ _Last updated October 27, 2026 at 11:07 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Affinity](https://csjobs.ca/companies/affinity?utm_source=github&utm_medium=readme)** | 🔥 Junior Cityworks Technical Analyst | Kelowna, BC | [Apply](https://csjobs.ca/jobs/826155/junior-cityworks-technical-analyst-at-affinity?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | 🔥 Jr Python Developer - up to $150k CAD - Montreal | Montreal, QC | [Apply](https://csjobs.ca/jobs/826008/jr-python-developer-up-to-150k-cad-montreal-at-hunter-bond?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[PERMA PIPE](https://csjobs.ca/companies/perma-pipe?utm_source=github&utm_medium=readme)** | 🔥 Junior IT Support Specialist | Camrose Plant - Camrose, AB T4V 4R5 | [Apply](https://csjobs.ca/jobs/825744/junior-it-support-specialist-at-perma-pipe-inc?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[MDA Space](https://csjobs.ca/companies/mda-space?utm_source=github&utm_medium=readme)** | 🔥 Junior Test Engineer - Digital (evening shift) | Sainte-Anne-de-Bellevue, QC | [Apply](https://csjobs.ca/jobs/820647/junior-test-engineer-digital-evening-shift-at-mda-space?utm_source=github&utm_medium=readme) | Oct 27 |
