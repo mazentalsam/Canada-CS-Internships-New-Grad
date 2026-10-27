@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 27, 2026 at 06:39 UTC_
+_Last updated October 27, 2026 at 06:53 UTC_
 
 ---
 
@@ -1069,7 +1069,6 @@ _Last updated October 27, 2026 at 06:39 UTC_
 | **[Aon](https://csjobs.ca/companies/aon?utm_source=github&utm_medium=readme)** | Early Careers: Junior C#/SQL Developer & Data Analytics | Montreal, QC | [Apply](https://csjobs.ca/jobs/542292/early-careers-junior-c-sql-developer-data-analytics-at-aon?utm_source=github&utm_medium=readme) | Oct 17 |
 | **[Scotiabank](https://csjobs.ca/companies/scotiabank?utm_source=github&utm_medium=readme)** | Associate Platform Engineer | Toronto, ON | [Apply](https://csjobs.ca/jobs/535556/associate-platform-engineer-at-scotiabank?utm_source=github&utm_medium=readme) | Oct 17 |
 | **[Solace](https://csjobs.ca/companies/solace?utm_source=github&utm_medium=readme)** | Junior Software Developer - Mission Control | Ottawa, ON | [Apply](https://csjobs.ca/jobs/533187/junior-software-developer-mission-control-at-solace?utm_source=github&utm_medium=readme) | Oct 17 |
-| **[DoorDash](https://csjobs.ca/companies/doordash?utm_source=github&utm_medium=readme)** | Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027) | Toronto, ON | [Apply](https://csjobs.ca/jobs/532998/software-engineer-entry-level-graduation-date-winter-2026-spring-summer-2027-at-?utm_source=github&utm_medium=readme) | Oct 17 |
 | **[SECURE Waste Infrastructure](https://csjobs.ca/companies/secure-waste-infrastructure?utm_source=github&utm_medium=readme)** | Junior Software Developer | Calgary, AB | [Apply](https://csjobs.ca/jobs/532313/junior-software-developer-at-secure-waste-infrastructure?utm_source=github&utm_medium=readme) | Oct 17 |
 | **[Bank of Montreal](https://csjobs.ca/companies/bank-of-montreal?utm_source=github&utm_medium=readme)** | Associate, Data Scientist | Toronto, ON | [Apply](https://csjobs.ca/jobs/507711/associate-data-scientist-at-bank-of-montreal?utm_source=github&utm_medium=readme) | Oct 16 |
 | **[Investment Management Corporation of Ontario (IMCO)](https://csjobs.ca/companies/investment-management-corporation-of-ontario-imco?utm_source=github&utm_medium=readme)** | Associate, Data Management | Toronto, ON | [Apply](https://csjobs.ca/jobs/507165/associate-data-management-at-investment-management-corporation-of-ontario-imco?utm_source=github&utm_medium=readme) | Oct 16 |
@@ -1170,6 +1169,7 @@ _Last updated October 27, 2026 at 06:39 UTC_
 | ↳ | 2027 Graduate Program, Enterprise Solutions - Advanced Technology | Ottawa, ON | [✨ Pro](https://csjobs.ca/jobs/487673/2027-graduate-program-enterprise-solutions-advanced-technology-at-bell?utm_source=github&utm_medium=readme) | Sep 14 |
 | **[GHD](https://csjobs.ca/companies/ghd?utm_source=github&utm_medium=readme)** | Engineering Graduate, Stormwater | Toronto, ON | [Apply](https://csjobs.ca/jobs/487531/engineering-graduate-stormwater-at-ghd?utm_source=github&utm_medium=readme) | Sep 14 |
 | **[RBC](https://csjobs.ca/companies/rbc?utm_source=github&utm_medium=readme)** | Associate - Quantitative Analyst | TORONTO, ON | [Apply](https://csjobs.ca/jobs/796477/associate-quantitative-analyst-at-rbc?utm_source=github&utm_medium=readme) | Sep 8 |
+| **[DoorDash](https://csjobs.ca/companies/doordash?utm_source=github&utm_medium=readme)** | Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027) | Toronto, ON | [Apply](https://csjobs.ca/jobs/795880/software-engineer-entry-level-graduation-date-winter-2026-spring-summer-2027-at-?utm_source=github&utm_medium=readme) | Sep 4 |
 | **[mthree](https://csjobs.ca/companies/mthree?utm_source=github&utm_medium=readme)** | Junior Java Developer | Halifax, NS | [Apply](https://csjobs.ca/jobs/795902/junior-java-developer-at-mthree?utm_source=github&utm_medium=readme) | Sep 3 |
 | **[General Dynamics Mission Systems](https://csjobs.ca/companies/general-dynamics-mission-systems?utm_source=github&utm_medium=readme)** | Junior Hardware Engineering Developer, FPGA | Ottawa, ON | [Apply](https://csjobs.ca/jobs/796402/junior-hardware-engineering-developer-fpga-at-general-dynamics-mission-systems?utm_source=github&utm_medium=readme) | Sep 2 |
 | **[GHD](https://csjobs.ca/companies/ghd?utm_source=github&utm_medium=readme)** | Graduate Environmental Scientist/Engineer | Waterloo, ON | [Apply](https://csjobs.ca/jobs/796326/graduate-environmental-scientist-engineer-at-ghd?utm_source=github&utm_medium=readme) | Sep 2 |
