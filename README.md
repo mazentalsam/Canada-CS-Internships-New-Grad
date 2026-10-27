@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1144-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-431-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-132-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1144-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-431-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-133-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 27, 2026 at 11:28 UTC_
+_Last updated October 27, 2026 at 12:08 UTC_
 
 ---
 
@@ -41,6 +41,7 @@ _Last updated October 27, 2026 at 11:28 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[IDEMIA Public Security](https://csjobs.ca/companies/idemia-public-security?utm_source=github&utm_medium=readme)** | 🔥 Technical Project Management Internship | Oakville, ON | [Apply](https://csjobs.ca/jobs/826372/technical-project-management-internship-at-idemia-public-security?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Lumentum](https://csjobs.ca/companies/lumentum?utm_source=github&utm_medium=readme)** | 🔥 Embedded Software Developer Co-op (Optical Circuit Switch) | Ottawa, ON / Canada - Ottawa (Bill Leathem) | [Apply](https://csjobs.ca/jobs/826004/embedded-software-developer-co-op-optical-circuit-switch-at-lumentum?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[EQ Bank](https://csjobs.ca/companies/eq-bank?utm_source=github&utm_medium=readme)** | 🔥 Intern - Retail Lending AI Engineer, Winter 2027 | Toronto, ON / Toronto | [Apply](https://csjobs.ca/jobs/825987/intern-retail-lending-ai-engineer-winter-2027-at-eq-bank?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Nutrien](https://csjobs.ca/companies/nutrien?utm_source=github&utm_medium=readme)** | 🔥 Co-Op, IT, Digital Delivery | Saskatoon, SK / Calgary, AB | [Apply](https://csjobs.ca/jobs/825917/co-op-it-digital-delivery-at-nutrien?utm_source=github&utm_medium=readme) | Oct 27 |
@@ -863,7 +864,6 @@ _Last updated October 27, 2026 at 11:28 UTC_
 | **[AMI](https://csjobs.ca/companies/ami?utm_source=github&utm_medium=readme)** | Computer Vision Scientist Intern, Geometry and 3D Vision | Montreal, QC | [Apply](https://csjobs.ca/jobs/821199/computer-vision-scientist-intern-geometry-and-3d-vision-at-ami?utm_source=github&utm_medium=readme) | Aug 27 |
 | **[Zip](https://csjobs.ca/companies/zip?utm_source=github&utm_medium=readme)** | Software Engineer Intern | Toronto, ON | [Apply](https://csjobs.ca/jobs/821200/software-engineer-intern-at-zip?utm_source=github&utm_medium=readme) | Aug 25 |
 | **[Epic Games](https://csjobs.ca/companies/epic-games?utm_source=github&utm_medium=readme)** | Machine Learning Research Intern 🛂 | Montreal | [✨ Pro](https://csjobs.ca/jobs/821764/machine-learning-research-intern-at-epic-games?utm_source=github&utm_medium=readme) | Aug 21 |
-| **[Goldman Sachs](https://csjobs.ca/companies/goldman-sachs?utm_source=github&utm_medium=readme)** | Summer Analyst, Engineering | Toronto, ON | [Apply](https://csjobs.ca/jobs/824887/summer-analyst-engineering-at-goldman-sachs?utm_source=github&utm_medium=readme) | Aug 20 |
 | **[Kepler Communications](https://csjobs.ca/companies/kepler-communications?utm_source=github&utm_medium=readme)** | Embedded Software Engineering Intern (January 2027) (4 months) | Toronto, ON | [Apply](https://csjobs.ca/jobs/820983/embedded-software-engineering-intern-january-2027-4-months-at-kepler-communicati?utm_source=github&utm_medium=readme) | Aug 19 |
 | **[Howmet Aerospace](https://csjobs.ca/companies/howmet-aerospace?utm_source=github&utm_medium=readme)** | engineering intern | Laval, QC | [Apply](https://csjobs.ca/jobs/821401/engineering-intern-at-howmet-aerospace?utm_source=github&utm_medium=readme) | Aug 12 |
 | **[InstaLILY](https://csjobs.ca/companies/instalily?utm_source=github&utm_medium=readme)** | Software Engineer I, Toronto Co-op | Toronto | [Apply](https://csjobs.ca/jobs/820944/software-engineer-i-toronto-co-op-at-instalily?utm_source=github&utm_medium=readme) | Jul 31 |
