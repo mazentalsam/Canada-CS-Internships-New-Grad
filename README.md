@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1162-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-439-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-170-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1165-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-441-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-173-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (860)](#-internships--co-ops) · [🚀 New Grad & Junior (302)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (862)](#-internships--co-ops) · [🚀 New Grad & Junior (303)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 27, 2026 at 16:39 UTC_
+_Last updated October 27, 2026 at 17:11 UTC_
 
 ---
 
@@ -41,6 +41,8 @@ _Last updated October 27, 2026 at 16:39 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Loblaw Companies](https://csjobs.ca/companies/loblaw-companies?utm_source=github&utm_medium=readme)** | 🔥 Supply Chain Business Intelligence - Co-op Student | Brampton, ON | [Apply](https://csjobs.ca/jobs/833045/supply-chain-business-intelligence-co-op-student-at-loblaw-companies-limited?utm_source=github&utm_medium=readme) | Oct 27 |
+| **[Multimatic](https://csjobs.ca/companies/multimatic?utm_source=github&utm_medium=readme)** | 🔥 IT Co-op | East Gwillimbury, ON | [Apply](https://csjobs.ca/jobs/832970/it-co-op-at-multimatic?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[CIBC](https://csjobs.ca/companies/cibc?utm_source=github&utm_medium=readme)** | 🔥 Junior Insights & Analytics Co-op | Toronto, ON | [Apply](https://csjobs.ca/jobs/832715/junior-insights-analytics-co-op-at-cibc?utm_source=github&utm_medium=readme) | Oct 27 |
 | ↳ | 🔥 Data Analyst co-op | Toronto, ON | [Apply](https://csjobs.ca/jobs/832667/data-analyst-co-op-at-cibc?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | 🔥 C-GE-017 – Stagiaire développeur(se) de logiciels | Montréal, QC | [Apply](https://csjobs.ca/jobs/832508/c-ge-017-stagiaire-developpeur-se-de-logiciels-at-cae-inc?utm_source=github&utm_medium=readme) | Oct 27 |
@@ -906,6 +908,8 @@ _Last updated October 27, 2026 at 16:39 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[ATCO Electric](https://csjobs.ca/companies/atco-electric?utm_source=github&utm_medium=readme)** | 🔥 Real Time Systems Analyst I | Vegreville, AB | [Apply](https://csjobs.ca/jobs/832895/real-time-systems-analyst-i-at-atco-electric?utm_source=github&utm_medium=readme) | Oct 27 |
+| **[ATCO](https://csjobs.ca/companies/atco?utm_source=github&utm_medium=readme)** | 🔥 Real Time Systems Analyst I | Vegreville, AB | [Apply](https://csjobs.ca/jobs/832890/real-time-systems-analyst-i-at-atco?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Scispot.io](https://csjobs.ca/companies/scispot-io?utm_source=github&utm_medium=readme)** | 🔥 Junior AI Automation Engineer | Kitchener, ON - Work Remotely | [Apply](https://csjobs.ca/jobs/832544/junior-ai-automation-engineer-at-scispot-io-inc?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[BBA](https://csjobs.ca/companies/bba?utm_source=github&utm_medium=readme)** | 🔥 Water Treatment Engineer - Junior | Montréal, QC | [Apply](https://csjobs.ca/jobs/832539/water-treatment-engineer-junior-at-bba-inc?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[CAE](https://csjobs.ca/companies/cae?utm_source=github&utm_medium=readme)** | 🔥 Junior Software Developer - System Integration Labs (North Shore) | Mirabel, QC | [Apply](https://csjobs.ca/jobs/832537/junior-software-developer-system-integration-labs-north-shore-at-cae-inc?utm_source=github&utm_medium=readme) | Oct 27 |
@@ -917,7 +921,6 @@ _Last updated October 27, 2026 at 16:39 UTC_
 | ↳ | 🔥 Jr. Software Engineer, AI Agent Platform | ON / ON (Remote) | [Apply](https://csjobs.ca/jobs/831563/jr-software-engineer-ai-agent-platform-at-motorola-solutions?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Scotiabank](https://csjobs.ca/companies/scotiabank?utm_source=github&utm_medium=readme)** | 🔥 Junior Software Engineer-Global Payments Engineering | Toronto, ON | [Apply](https://csjobs.ca/jobs/831320/junior-software-engineer-global-payments-engineering-at-scotiabank?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Semtech](https://csjobs.ca/companies/semtech?utm_source=github&utm_medium=readme)** | 🔥 Associate Applications Engineer | CAN - Burlington, ON | [Apply](https://csjobs.ca/jobs/829792/associate-applications-engineer-at-semtech?utm_source=github&utm_medium=readme) | Oct 27 |
-| **[ATCO](https://csjobs.ca/companies/atco?utm_source=github&utm_medium=readme)** | 🔥 Real Time Systems Analyst I | Vegreville, AB | [Apply](https://csjobs.ca/jobs/829253/real-time-systems-analyst-i-at-atco?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Affinity](https://csjobs.ca/companies/affinity?utm_source=github&utm_medium=readme)** | 🔥 Junior Cityworks Technical Analyst | Kelowna, BC | [Apply](https://csjobs.ca/jobs/826155/junior-cityworks-technical-analyst-at-affinity?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[Hunter Bond](https://csjobs.ca/companies/hunter-bond?utm_source=github&utm_medium=readme)** | 🔥 Jr Python Developer - up to $150k CAD - Montreal | Montreal, QC | [Apply](https://csjobs.ca/jobs/826008/jr-python-developer-up-to-150k-cad-montreal-at-hunter-bond?utm_source=github&utm_medium=readme) | Oct 27 |
 | **[PERMA PIPE](https://csjobs.ca/companies/perma-pipe?utm_source=github&utm_medium=readme)** | 🔥 Junior IT Support Specialist | Camrose Plant - Camrose, AB T4V 4R5 | [Apply](https://csjobs.ca/jobs/825744/junior-it-support-specialist-at-perma-pipe-inc?utm_source=github&utm_medium=readme) | Oct 27 |
