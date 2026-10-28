@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1174-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-452-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-204-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1175-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-452-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-204-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (863)](#-internships--co-ops) · [🚀 New Grad & Junior (311)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (863)](#-internships--co-ops) · [🚀 New Grad & Junior (312)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 28, 2026 at 15:27 UTC_
+_Last updated October 28, 2026 at 16:13 UTC_
 
 ---
 
@@ -1105,6 +1105,7 @@ _Last updated October 28, 2026 at 15:27 UTC_
 | **[IBM](https://csjobs.ca/companies/ibm?utm_source=github&utm_medium=readme)** | Technology Seller - Entry Level Sales Program 2027 | Multiple Cities | [✨ Pro](https://csjobs.ca/jobs/502933/technology-seller-entry-level-sales-program-2027-at-ibm?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | Sr. Business Systems Analyst I | Toronto, ON | [Apply](https://csjobs.ca/jobs/494612/sr-business-systems-analyst-i-at-td-bank?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Affirm](https://csjobs.ca/companies/affirm?utm_source=github&utm_medium=readme)** | Software Engineer I, Fullstack (Search) | Remote Canada | [Apply](https://csjobs.ca/jobs/494283/software-engineer-i-fullstack-search-at-affirm?utm_source=github&utm_medium=readme) | Oct 15 |
+| **[1Password](https://csjobs.ca/companies/1password?utm_source=github&utm_medium=readme)** | Junior Developer | Canada) | [Apply](https://csjobs.ca/jobs/492207/junior-developer-at-1password?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Cenovus Energy](https://csjobs.ca/companies/cenovus-energy?utm_source=github&utm_medium=readme)** | New Grad, Power Engineering, Lloydminster (June 2027) | CA-AB-Lloydminster | [Apply](https://csjobs.ca/jobs/491802/new-grad-power-engineering-lloydminster-june-2027-at-cenovus-energy?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[IQVIA](https://csjobs.ca/companies/iqvia?utm_source=github&utm_medium=readme)** | Scientifique des données associé, confidentialité et désidentification/ Associate Data Scientist, Privacy and De-identification | Ottawa, ON | [Apply](https://csjobs.ca/jobs/490862/scientifique-des-donnees-associe-confidentialite-et-desidentification-associate-?utm_source=github&utm_medium=readme) | Oct 15 |
 | **[Best Buy](https://csjobs.ca/companies/best-buy?utm_source=github&utm_medium=readme)** | Mobile Sales Associate (Full Time) | 10741 Shawnessy | [Apply](https://csjobs.ca/jobs/479087/mobile-sales-associate-full-time-at-best-buy?utm_source=github&utm_medium=readme) | Oct 15 |
