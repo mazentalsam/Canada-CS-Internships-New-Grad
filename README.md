@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1177-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-458-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-212-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1178-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-459-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-213-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (863)](#-internships--co-ops) · [🚀 New Grad & Junior (314)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (863)](#-internships--co-ops) · [🚀 New Grad & Junior (315)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated October 28, 2026 at 19:25 UTC_
+_Last updated October 28, 2026 at 20:07 UTC_
 
 ---
 
@@ -909,6 +909,7 @@ _Last updated October 28, 2026 at 19:25 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Hootsuite](https://csjobs.ca/companies/hootsuite?utm_source=github&utm_medium=readme)** | 🔥 Junior Cyber Incident Response Analyst | Vancouver, BC | [Apply](https://csjobs.ca/jobs/868476/junior-cyber-incident-response-analyst-at-hootsuite?utm_source=github&utm_medium=readme) | Oct 28 |
 | **[Akkodis](https://csjobs.ca/companies/akkodis?utm_source=github&utm_medium=readme)** | 🔥 Validation Engineer (ITV Specialist - Jr) | Toronto, ON | [Apply](https://csjobs.ca/jobs/864496/validation-engineer-itv-specialist-jr-at-akkodis?utm_source=github&utm_medium=readme) | Oct 28 |
 | **[Beanfield](https://csjobs.ca/companies/beanfield?utm_source=github&utm_medium=readme)** | 🔥 Software Engineer I | Toronto, ON | [Apply](https://csjobs.ca/jobs/864491/software-engineer-i-at-beanfield?utm_source=github&utm_medium=readme) | Oct 28 |
 | **[Tower Research Capital](https://csjobs.ca/companies/tower-research-capital?utm_source=github&utm_medium=readme)** | 🔥 Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer | Montreal, QC | [Apply](https://csjobs.ca/jobs/864486/developpeur-de-logiciels-c-nouvellement-diplome-new-grad-c-software-developer-at?utm_source=github&utm_medium=readme) | Oct 28 |
