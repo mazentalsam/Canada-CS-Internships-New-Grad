@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated November 3, 2026 at 13:25 UTC_
+_Last updated November 3, 2026 at 14:07 UTC_
 
 ---
 
@@ -84,7 +84,7 @@ _Last updated November 3, 2026 at 13:25 UTC_
 | **[AtkinsRéalis](https://csjobs.ca/companies/atkinsrealis?utm_source=github&utm_medium=readme)** | 🔥 Rail Infrastructure Student (Summer 2027) | CA.ON.Toronto.191 The West Mall | [Apply](https://csjobs.ca/jobs/1018320/rail-infrastructure-student-summer-2027-at-atkinsrealis?utm_source=github&utm_medium=readme) | Nov 2 |
 | **[Intel](https://csjobs.ca/companies/intel?utm_source=github&utm_medium=readme)** | 🔥 GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto | [✨ Pro](https://csjobs.ca/jobs/1017802/gpu-ai-accelerator-hardware-design-undergraduate-intern-at-intel?utm_source=github&utm_medium=readme) | Nov 2 |
 | **[Qualcomm](https://csjobs.ca/companies/qualcomm?utm_source=github&utm_medium=readme)** | 🔥 FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months) | Toronto, ON | [✨ Pro](https://csjobs.ca/jobs/1017252/fy27-intern-msip-digital-design-verification-engineering-internship-canada-16-mo?utm_source=github&utm_medium=readme) | Nov 2 |
-| **[CLEAResult](https://csjobs.ca/companies/clearesult?utm_source=github&utm_medium=readme)** | 🔥 Engineering Co-op | Greater Toronto Area / Remote - Canada - ON | [Apply](https://csjobs.ca/jobs/1017218/engineering-co-op-at-clearesult?utm_source=github&utm_medium=readme) | Nov 2 |
+| **[CLEAResult](https://csjobs.ca/companies/clearesult?utm_source=github&utm_medium=readme)** | 🔥 Engineering Co-op | Greater Toronto Area | [Apply](https://csjobs.ca/jobs/1017218/engineering-co-op-at-clearesult?utm_source=github&utm_medium=readme) | Nov 2 |
 | **[Pathway Communications](https://csjobs.ca/companies/pathway-communications?utm_source=github&utm_medium=readme)** | 🔥 IT Intern (Engineering) – Junior Systems Administrator (Azure / Microsoft 365) | Markham, ON | [Apply](https://csjobs.ca/jobs/1017092/it-intern-engineering-junior-systems-administrator-azure-microsoft-365-at-pathwa?utm_source=github&utm_medium=readme) | Nov 2 |
 | **[J.D. Irving](https://csjobs.ca/companies/j-d-irving?utm_source=github&utm_medium=readme)** | 🔥 Business Intelligence Student - Pulp & Paper Division - Winter 2027 | Saint John, NB | [Apply](https://csjobs.ca/jobs/1017052/business-intelligence-student-pulp-paper-division-winter-2027-at-j-d-irving-limi?utm_source=github&utm_medium=readme) | Nov 2 |
 | **[TMX](https://csjobs.ca/companies/tmx?utm_source=github&utm_medium=readme)** | 🔥 AI Governance & Policy Intern | Toronto - 100 Adelaide St W | [Apply](https://csjobs.ca/jobs/1017035/ai-governance-policy-intern-at-tmx-group?utm_source=github&utm_medium=readme) | Nov 2 |
