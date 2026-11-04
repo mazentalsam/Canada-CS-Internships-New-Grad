@@ -4,7 +4,7 @@
 
 **Every open software, data & AI internship, co-op, new grad and junior developer job in Canada — one list, checked every hour, closed roles removed automatically.**
 
-![open roles](https://img.shields.io/badge/open%20roles-1103-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-418-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-120-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
+![open roles](https://img.shields.io/badge/open%20roles-1104-e63946?style=flat-square) ![companies](https://img.shields.io/badge/companies-419-3b82f6?style=flat-square) ![new in 48h](https://img.shields.io/badge/new%20in%2048h-120-10b981?style=flat-square) ![updated](https://img.shields.io/badge/updated-hourly-8b5cf6?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mazentalsam/Canada-CS-Internships-New-Grad?style=flat-square&label=stars&color=f59e0b)
 
 [**Browse & filter on csjobs.ca**](https://csjobs.ca/jobs?utm_source=github&utm_medium=readme) · [**Get alerts for new roles**](https://csjobs.ca/auth?mode=signup&utm_source=github&utm_medium=readme) · [**Add a job**](https://github.com/mazentalsam/Canada-CS-Internships-New-Grad/issues/new?template=add-job.yml)
 
@@ -27,13 +27,13 @@ Covers backend, frontend and full-stack development, software engineering, data 
 - Sorted newest first; roles at the same company are grouped with ↳.
 - 🔥 = posted in the last 48 hours · ✨ = big-name company (FAANG, unicorns, Fortune 500) — full details with [csjobs.ca Pro](https://csjobs.ca/upgrade?utm_source=github&utm_medium=readme)
 
-**Jump to:** [🎓 Internships & Co-ops (818)](#-internships--co-ops) · [🚀 New Grad & Junior (285)](#-new-grad--junior-roles)
+**Jump to:** [🎓 Internships & Co-ops (818)](#-internships--co-ops) · [🚀 New Grad & Junior (286)](#-new-grad--junior-roles)
 
 **By city:** [Toronto](https://csjobs.ca/internships/toronto?utm_source=github&utm_medium=readme) · [Waterloo](https://csjobs.ca/internships/waterloo?utm_source=github&utm_medium=readme) · [Ottawa](https://csjobs.ca/internships/ottawa?utm_source=github&utm_medium=readme) · [Montreal](https://csjobs.ca/internships/montreal?utm_source=github&utm_medium=readme) · [Vancouver](https://csjobs.ca/internships/vancouver?utm_source=github&utm_medium=readme) · [Calgary](https://csjobs.ca/internships/calgary?utm_source=github&utm_medium=readme) · [Remote](https://csjobs.ca/internships/remote?utm_source=github&utm_medium=readme) · [International students](https://csjobs.ca/internships/international-students?utm_source=github&utm_medium=readme)
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated November 4, 2026 at 13:25 UTC_
+_Last updated November 4, 2026 at 14:07 UTC_
 
 ---
 
@@ -1144,6 +1144,7 @@ _Last updated November 4, 2026 at 13:25 UTC_
 | **[Cerebras](https://csjobs.ca/companies/cerebras?utm_source=github&utm_medium=readme)** | Software Engineer - New Grad 2026 | Toronto | [Apply](https://csjobs.ca/jobs/1061133/software-engineer-new-grad-2026-at-cerebras?utm_source=github&utm_medium=readme) | May 11 |
 | ↳ | DevOps Engineer - New Grad 2026 | Toronto | [Apply](https://csjobs.ca/jobs/1061132/devops-engineer-new-grad-2026-at-cerebras?utm_source=github&utm_medium=readme) | May 11 |
 | **[Feathery](https://csjobs.ca/companies/feathery?utm_source=github&utm_medium=readme)** | Full Stack Engineer, Early Career | Toronto | [Apply](https://csjobs.ca/jobs/1061135/full-stack-engineer-early-career-at-feathery?utm_source=github&utm_medium=readme) | Apr 20 |
+| **[Zensurance](https://csjobs.ca/companies/zensurance?utm_source=github&utm_medium=readme)** | Insurance Analytics Associate (Remote First) | Toronto, ON | [Apply](https://csjobs.ca/jobs/1069992/insurance-analytics-associate-remote-first-at-zensurance?utm_source=github&utm_medium=readme) | Jan 16 |
 | **[mthree](https://csjobs.ca/companies/mthree?utm_source=github&utm_medium=readme)** | Ingénieur(e) en soutien de production / Programme diplômés Cloud, DevOps et SRE / Production Support Engineer / Cloud, DevOps & SRE Graduate Programme | Montréal, QC | [Apply](https://csjobs.ca/jobs/1061101/ingenieur-e-en-soutien-de-production-programme-diplomes-cloud-devops-et-sre-prod?utm_source=github&utm_medium=readme) | Apr 22 |
 | **[Charles River Associates](https://csjobs.ca/companies/charles-river-associates?utm_source=github&utm_medium=readme)** | Consulting Associate/Cybersecurity & Incident Response (Forensic Services practice) | Toronto, ON | [Apply](https://csjobs.ca/jobs/1061099/consulting-associate-cybersecurity-incident-response-forensic-services-practice-?utm_source=github&utm_medium=readme) | Nov 20 |
 | **[mthree](https://csjobs.ca/companies/mthree?utm_source=github&utm_medium=readme)** | Développeur génie logiciel junior / Junior Software Developer | Montreal, QC | [Apply](https://csjobs.ca/jobs/1061100/developpeur-genie-logiciel-junior-junior-software-developer-at-mthree?utm_source=github&utm_medium=readme) | Jun 3 |
