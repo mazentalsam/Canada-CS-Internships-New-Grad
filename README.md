@@ -33,7 +33,7 @@ Covers backend, frontend and full-stack development, software engineering, data 
 
 ⭐ **Star this repo** so it's here when recruiting season hits — and share it with your co-op group chat.
 
-_Last updated November 4, 2026 at 02:04 UTC_
+_Last updated November 4, 2026 at 02:25 UTC_
 
 ---
 
@@ -41,7 +41,7 @@ _Last updated November 4, 2026 at 02:04 UTC_
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | :---: | :---: |
-| **[RTX](https://csjobs.ca/companies/rtx?utm_source=github&utm_medium=readme)** | 🔥 Secure System Engineering Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | [Apply](https://csjobs.ca/jobs/1054424/secure-system-engineering-intern-summer-2027-at-rtx?utm_source=github&utm_medium=readme) | Nov 4 |
+| **[RTX](https://csjobs.ca/companies/rtx?utm_source=github&utm_medium=readme)** | 🔥 Secure System Engineering Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | [Apply](https://csjobs.ca/jobs/1055651/secure-system-engineering-intern-summer-2027-at-rtx?utm_source=github&utm_medium=readme) | Nov 4 |
 | **[Stryker](https://csjobs.ca/companies/stryker?utm_source=github&utm_medium=readme)** | 🔥 Quality Engineer, Co-op | Burnaby, BC | [Apply](https://csjobs.ca/jobs/1053228/quality-engineer-co-op-at-stryker?utm_source=github&utm_medium=readme) | Nov 4 |
 | **[Global Relay](https://csjobs.ca/companies/global-relay?utm_source=github&utm_medium=readme)** | 🔥 Co-op Java Developer - Winter 2027 | Vancouver, BC / Halifax, NS | [Apply](https://csjobs.ca/jobs/1053089/co-op-java-developer-winter-2027-at-global-relay?utm_source=github&utm_medium=readme) | Nov 3 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | 🔥 Stagiaire en développement logiciel - Software developer Intern/Co-op | QC | [Apply](https://csjobs.ca/jobs/1052171/stagiaire-en-developpement-logiciel-software-developer-intern-co-op-at-ciena?utm_source=github&utm_medium=readme) | Nov 3 |
@@ -1020,7 +1020,7 @@ _Last updated November 4, 2026 at 02:04 UTC_
 | **[Analog Devices](https://csjobs.ca/companies/analog-devices?utm_source=github&utm_medium=readme)** | Associate Engineer – SDK and Tools Development | Vancouver | [Apply](https://csjobs.ca/jobs/727528/associate-engineer-sdk-and-tools-development-at-analog-devices?utm_source=github&utm_medium=readme) | Oct 23 |
 | **[🔥 Amazon](https://csjobs.ca/companies/amazon?utm_source=github&utm_medium=readme)** | Data Engineer Early Career | Toronto, ON | [Apply](https://csjobs.ca/jobs/704852/data-engineer-early-career-at-amazon?utm_source=github&utm_medium=readme) | Oct 23 |
 | ↳ | Software Development Engineer – Early Career | Vancouver, BC | [Apply](https://csjobs.ca/jobs/704838/software-development-engineer-early-career-at-amazon?utm_source=github&utm_medium=readme) | Oct 23 |
-| **[Hewlett Packard Enterprise](https://csjobs.ca/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme)** | HPC Technology Consultant Graduate | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/1054377/hpc-technology-consultant-graduate-at-hewlett-packard-enterprise?utm_source=github&utm_medium=readme) | Oct 22 |
+| **[Hewlett Packard Enterprise](https://csjobs.ca/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=readme)** | HPC Technology Consultant Graduate | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/1055604/hpc-technology-consultant-graduate-at-hewlett-packard-enterprise?utm_source=github&utm_medium=readme) | Oct 22 |
 | **[Cliniconex](https://csjobs.ca/companies/cliniconex?utm_source=github&utm_medium=readme)** | Software Developer (Agentic AI Automation) - Entry Level\/Intermediate | Kanata, ON | [Apply](https://csjobs.ca/jobs/1017007/software-developer-agentic-ai-automation-entry-level-intermediate-at-cliniconex-?utm_source=github&utm_medium=readme) | Oct 22 |
 | **[Ag Growth International](https://csjobs.ca/companies/ag-growth-international?utm_source=github&utm_medium=readme)** | Junior Project Engineer-in-Training (6 month contract position) | Woodbridge, ON | [Apply](https://csjobs.ca/jobs/929990/junior-project-engineer-in-training-6-month-contract-position-at-ag-growth-inter?utm_source=github&utm_medium=readme) | Oct 22 |
 | **[TD Bank](https://csjobs.ca/companies/td-bank?utm_source=github&utm_medium=readme)** | Applied Machine Learning Scientist I ATH# 5645 (Tabular Deep Learning Model Validation) | Toronto, ON | [Apply](https://csjobs.ca/jobs/796244/applied-machine-learning-scientist-i-ath-5645-tabular-deep-learning-model-valida?utm_source=github&utm_medium=readme) | Oct 22 |
@@ -1114,7 +1114,7 @@ _Last updated November 4, 2026 at 02:04 UTC_
 | **[WSP](https://csjobs.ca/companies/wsp?utm_source=github&utm_medium=readme)** | Junior Geoscientist / Geochemist / Data Scientist | Calgary, AB | [Apply](https://csjobs.ca/jobs/719706/junior-geoscientist-geochemist-data-scientist-at-wsp?utm_source=github&utm_medium=readme) | Sep 23 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | Embedded Software Engineer - New Grad | Ottawa | [Apply](https://csjobs.ca/jobs/711133/embedded-software-engineer-new-grad-at-ciena?utm_source=github&utm_medium=readme) | Sep 23 |
 | **[GHD](https://csjobs.ca/companies/ghd?utm_source=github&utm_medium=readme)** | Environmental Engineering or Science Graduate | Mississauga, ON | [Apply](https://csjobs.ca/jobs/477926/environmental-engineering-or-science-graduate-at-ghd?utm_source=github&utm_medium=readme) | Sep 23 |
-| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/1053951/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
+| **[Axon](https://csjobs.ca/companies/axon?utm_source=github&utm_medium=readme)** | Graduate Site Reliability Engineer (Australia) | Melbourne, Victoria | [Apply](https://csjobs.ca/jobs/1055212/graduate-site-reliability-engineer-australia-at-axon?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Curtiss-Wright](https://csjobs.ca/companies/curtiss-wright?utm_source=github&utm_medium=readme)** | Production Associate, CCA Test (3:30 pm – 12:00 midnight) | Canada-Ottawa | [Apply](https://csjobs.ca/jobs/479094/production-associate-cca-test-3-30-pm-12-00-midnight-at-curtiss-wright?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Magna International](https://csjobs.ca/companies/magna-international?utm_source=github&utm_medium=readme)** | Jr. Die Process & Development Engineer | Brampton, ON | [Apply](https://csjobs.ca/jobs/479046/jr-die-process-development-engineer-at-magna-international?utm_source=github&utm_medium=readme) | Sep 22 |
 | **[Ciena](https://csjobs.ca/companies/ciena?utm_source=github&utm_medium=readme)** | SVT/PV Engineer 1 - New Grad | Ottawa | [Apply](https://csjobs.ca/jobs/530447/svt-pv-engineer-1-new-grad-at-ciena?utm_source=github&utm_medium=readme) | Sep 21 |
